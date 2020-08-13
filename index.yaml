@@ -25,9 +25,9 @@ entries:
     version: 2.2.1
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-13T13:20:37.121940678Z"
+    created: "2020-08-13T13:21:01.970341937Z"
     description: A Helm chart for Elasticsearch Curator
-    digest: ce7613df5e955d6b985c80717096fdbef213b5864e0196821ba3600182a6a28b
+    digest: 1e1471438594e1c84e700cbfdaa05f93cc14f9cd01636b0f08407e2007680ca2
     home: https://github.com/elastic/curator
     keywords:
     - curator
@@ -43,13 +43,13 @@ entries:
     - https://github.com/kubernetes/charts/elasticsearch-curator
     - https://github.com/pires/docker-elasticsearch-curator
     urls:
-    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.1.5/elasticsearch-curator-2.1.5.tgz
-    version: 2.1.5
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.1.1/elasticsearch-curator-2.1.1.tgz
+    version: 2.1.1
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-13T13:21:30.826270291Z"
+    created: "2020-08-13T13:21:45.685074482Z"
     description: A Helm chart for Elasticsearch Curator
-    digest: 2e57e18606d0cf74df0ed6ccbbd9d626c3c16c3ef896498f11fa97a40dc0ee14
+    digest: a9a6a8a417e15494e83652d78b0745cedf9cd8d899d7fab3ee0f10391d839fa9
     home: https://github.com/elastic/curator
     keywords:
     - curator
@@ -65,6 +65,6 @@ entries:
     - https://github.com/kubernetes/charts/elasticsearch-curator
     - https://github.com/pires/docker-elasticsearch-curator
     urls:
-    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.4.0/elasticsearch-curator-1.4.0.tgz
-    version: 1.4.0
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.3.1/elasticsearch-curator-1.3.1.tgz
+    version: 1.3.1
 generated: "2020-08-13T10:30:32.082899138Z"
