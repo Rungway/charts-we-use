@@ -467,10 +467,10 @@ entries:
     version: 1.0.0
   fluent-bit:
   - apiVersion: v1
-    appVersion: 1.1.0
-    created: "2020-08-13T14:28:34.058177993Z"
+    appVersion: 1.1.2
+    created: "2020-08-13T14:28:43.573059187Z"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
-    digest: bb76b39f810463a69e0c4635102d5bff581f8417e2f6feba312a9118543aa821
+    digest: aab8142b440ed3dc9571319c864f701099705c4b73fe2704aa8d51589140e32c
     home: http://fluentbit.io
     icon: http://fluentbit.io/assets/img/logo1-default.png
     keywords:
@@ -483,12 +483,14 @@ entries:
       name: kfox1111
     - email: eduardo@treasure-data.com
       name: edsiper
+    - email: hfernandez@mesosphere.com
+      name: hectorj2f
     name: fluent-bit
     sources:
     - http://fluentbit.io
     urls:
-    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.0.2/fluent-bit-2.0.2.tgz
-    version: 2.0.2
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.0.5/fluent-bit-2.0.5.tgz
+    version: 2.0.5
   - apiVersion: v1
     appVersion: 1.0.6
     created: "2020-08-13T14:28:00.168631309Z"
