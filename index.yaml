@@ -47,9 +47,9 @@ entries:
     version: 2.1.1
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-13T13:21:54.746128718Z"
+    created: "2020-08-13T13:22:02.578572415Z"
     description: A Helm chart for Elasticsearch Curator
-    digest: 56431c3607a4c31abd3a648ab60749fa5ff98d1f2b4cf67dc9275e241f70eaba
+    digest: 4e18bf2914571df5ba4dfd35a294247858dc21045c4ad958655ee8e8d91fcc8e
     home: https://github.com/elastic/curator
     keywords:
     - curator
@@ -65,6 +65,6 @@ entries:
     - https://github.com/kubernetes/charts/elasticsearch-curator
     - https://github.com/pires/docker-elasticsearch-curator
     urls:
-    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.1.0/elasticsearch-curator-1.1.0.tgz
-    version: 1.1.0
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.0.0/elasticsearch-curator-1.0.0.tgz
+    version: 1.0.0
 generated: "2020-08-13T10:30:32.082899138Z"
