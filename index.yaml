@@ -468,9 +468,9 @@ entries:
   fluent-bit:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-08-13T14:28:20.285708923Z"
+    created: "2020-08-13T14:28:34.058177993Z"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
-    digest: 0d45af51e00aa61fc9b350376c689a38bc8dae2ff8ada4000024614f0514a7f5
+    digest: bb76b39f810463a69e0c4635102d5bff581f8417e2f6feba312a9118543aa821
     home: http://fluentbit.io
     icon: http://fluentbit.io/assets/img/logo1-default.png
     keywords:
@@ -487,8 +487,31 @@ entries:
     sources:
     - http://fluentbit.io
     urls:
-    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.0.0/fluent-bit-2.0.0.tgz
-    version: 2.0.0
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.0.2/fluent-bit-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v1
+    appVersion: 1.0.6
+    created: "2020-08-13T14:28:00.168631309Z"
+    description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
+    digest: c972f54a6b83d414174a59be0b3785258dfbb2687dba4138e88a1611014feb3e
+    home: http://fluentbit.io
+    icon: http://fluentbit.io/assets/img/logo1-default.png
+    keywords:
+    - logging
+    - monitoring
+    - fluent
+    - fluentd
+    maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    - email: eduardo@treasure-data.com
+      name: edsiper
+    name: fluent-bit
+    sources:
+    - http://fluentbit.io
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-1.10.0/fluent-bit-1.10.0.tgz
+    version: 1.10.0
   - apiVersion: v1
     appVersion: 1.0.3
     created: "2020-08-13T14:27:06.736354544Z"
