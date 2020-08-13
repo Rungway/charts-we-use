@@ -468,9 +468,9 @@ entries:
   fluent-bit:
   - apiVersion: v1
     appVersion: 1.3.2
-    created: "2020-08-13T14:30:04.453980461Z"
+    created: "2020-08-13T14:30:14.569023351Z"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
-    digest: ca06c5c88f976526ee02015856cc631c615e02a564f29cd95ff90e2a565423d0
+    digest: 0def3e11dc70c3658770c060ec2fb3253025d211ec98d3ceba56b35e5ea77219
     home: https://fluentbit.io
     icon: https://fluentbit.io/assets/img/logo1-default.png
     keywords:
@@ -489,8 +489,33 @@ entries:
     sources:
     - https://fluentbit.io
     urls:
-    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.8.0/fluent-bit-2.8.0.tgz
-    version: 2.8.0
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.8.2/fluent-bit-2.8.2.tgz
+    version: 2.8.2
+  - apiVersion: v1
+    appVersion: 1.2.2
+    created: "2020-08-13T14:29:40.185000621Z"
+    description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
+    digest: 2a1756c4eb6e65d63be2accfa50b5166ed2373adc9d0770a0cd156fd6c3f10cd
+    home: https://fluentbit.io
+    icon: https://fluentbit.io/assets/img/logo1-default.png
+    keywords:
+    - logging
+    - monitoring
+    - fluent
+    - fluentd
+    maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    - email: eduardo@treasure-data.com
+      name: edsiper
+    - email: hfernandez@mesosphere.com
+      name: hectorj2f
+    name: fluent-bit
+    sources:
+    - https://fluentbit.io
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.5.0/fluent-bit-2.5.0.tgz
+    version: 2.5.0
   - apiVersion: v1
     appVersion: 1.2.0
     created: "2020-08-13T14:28:55.115324683Z"
