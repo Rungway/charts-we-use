@@ -467,10 +467,10 @@ entries:
     version: 1.0.0
   fluent-bit:
   - apiVersion: v1
-    appVersion: 1.2.1
-    created: "2020-08-13T14:29:26.269442237Z"
+    appVersion: 1.2.2
+    created: "2020-08-13T14:29:40.185000621Z"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
-    digest: 5b8fab67509903cb895f3dd0e0fac7af952772a90cdab8aeea85308c57be6762
+    digest: 2a1756c4eb6e65d63be2accfa50b5166ed2373adc9d0770a0cd156fd6c3f10cd
     home: https://fluentbit.io
     icon: https://fluentbit.io/assets/img/logo1-default.png
     keywords:
@@ -489,13 +489,38 @@ entries:
     sources:
     - https://fluentbit.io
     urls:
-    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.4.3/fluent-bit-2.4.3.tgz
-    version: 2.4.3
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.5.0/fluent-bit-2.5.0.tgz
+    version: 2.5.0
   - apiVersion: v1
-    appVersion: 1.1.0
-    created: "2020-08-13T14:28:20.285708923Z"
+    appVersion: 1.2.0
+    created: "2020-08-13T14:28:55.115324683Z"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
-    digest: 0d45af51e00aa61fc9b350376c689a38bc8dae2ff8ada4000024614f0514a7f5
+    digest: 0b082d6d5c213d6e5ab6957202da572e41a5a55e97775c3c32fee83f0d6a2dbe
+    home: https://fluentbit.io
+    icon: https://fluentbit.io/assets/img/logo1-default.png
+    keywords:
+    - logging
+    - monitoring
+    - fluent
+    - fluentd
+    maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    - email: eduardo@treasure-data.com
+      name: edsiper
+    - email: hfernandez@mesosphere.com
+      name: hectorj2f
+    name: fluent-bit
+    sources:
+    - https://fluentbit.io
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.1.0/fluent-bit-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v1
+    appVersion: 1.0.6
+    created: "2020-08-13T14:28:00.168631309Z"
+    description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
+    digest: c972f54a6b83d414174a59be0b3785258dfbb2687dba4138e88a1611014feb3e
     home: http://fluentbit.io
     icon: http://fluentbit.io/assets/img/logo1-default.png
     keywords:
@@ -512,8 +537,8 @@ entries:
     sources:
     - http://fluentbit.io
     urls:
-    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-2.0.0/fluent-bit-2.0.0.tgz
-    version: 2.0.0
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-1.10.0/fluent-bit-1.10.0.tgz
+    version: 1.10.0
   - apiVersion: v1
     appVersion: 1.0.3
     created: "2020-08-13T14:27:06.736354544Z"
