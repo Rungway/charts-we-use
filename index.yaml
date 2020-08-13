@@ -468,9 +468,9 @@ entries:
   fluent-bit:
   - apiVersion: v1
     appVersion: 0.14.4
-    created: "2020-08-13T14:25:22.989397868Z"
+    created: "2020-08-13T14:25:29.501356683Z"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
-    digest: 6b28ffc4b587e68c5cab35f8fdda32e4fc62369104d3020dd33fec1a7bc1561b
+    digest: 780c9c5597b16261035cca09f9a55c1de0dbe2b6f6c2afe5a3cf82cd0f775d4e
     home: http://fluentbit.io
     icon: http://fluentbit.io/assets/img/logo1-default.png
     keywords:
@@ -487,8 +487,8 @@ entries:
     sources:
     - http://fluentbit.io
     urls:
-    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-0.13.0/fluent-bit-0.13.0.tgz
-    version: 0.13.0
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-0.13.1/fluent-bit-0.13.1.tgz
+    version: 0.13.1
   - apiVersion: v1
     appVersion: 0.13.0
     created: "2020-08-13T14:24:39.664509543Z"
