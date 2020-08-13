@@ -3,9 +3,9 @@ entries:
   elasticsearch-curator:
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-13T10:30:32.196094724Z"
+    created: "2020-08-13T15:00:07.141942715+01:00"
     description: A Helm chart for Elasticsearch Curator
-    digest: 4f926a9678b8c94f38ed38206371612b7b642a546278e79cb49021fbf7ca88e6
+    digest: fab7eb6391c05cb2dfc95054f1774750e90a1d81f27ca7282c5624784a322ddf
     home: https://github.com/elastic/curator
     keywords:
     - curator
@@ -25,7 +25,119 @@ entries:
     version: 2.2.1
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-13T13:21:01.970341937Z"
+    created: "2020-08-13T15:00:07.141249491+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: d9e3f218831bd5080a8b004660048655481533700bd207833221e90ac159cac4
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    - email: adam.hamsik@lablabs.io
+      name: haad
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.2.0/elasticsearch-curator-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v1
+    appVersion: 5.7.6
+    created: "2020-08-13T15:00:07.139727078+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: ce7613df5e955d6b985c80717096fdbef213b5864e0196821ba3600182a6a28b
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.1.5/elasticsearch-curator-2.1.5.tgz
+    version: 2.1.5
+  - apiVersion: v1
+    appVersion: 5.7.6
+    created: "2020-08-13T15:00:07.139088971+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: 85ecc91647c9925e6578265dd0f78149d16f251dbf2f629eba46afb645fc9c05
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.1.4/elasticsearch-curator-2.1.4.tgz
+    version: 2.1.4
+  - apiVersion: v1
+    appVersion: 5.7.6
+    created: "2020-08-13T15:00:07.138451945+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: eee73b63977c0116efed543161563754d13f0375a390a861657c72c2427cf5d0
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.1.3/elasticsearch-curator-2.1.3.tgz
+    version: 2.1.3
+  - apiVersion: v1
+    appVersion: 5.7.6
+    created: "2020-08-13T15:00:07.137817472+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: 176341f94b76d64987155307a2698bc87cf7eab9c8959e7ddbbe8f06add7ac9c
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.1.2/elasticsearch-curator-2.1.2.tgz
+    version: 2.1.2
+  - apiVersion: v1
+    appVersion: 5.7.6
+    created: "2020-08-13T15:00:07.137169395+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 1e1471438594e1c84e700cbfdaa05f93cc14f9cd01636b0f08407e2007680ca2
     home: https://github.com/elastic/curator
@@ -46,8 +158,294 @@ entries:
     - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.1.1/elasticsearch-curator-2.1.1.tgz
     version: 2.1.1
   - apiVersion: v1
+    appVersion: 5.7.6
+    created: "2020-08-13T15:00:07.136541224+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: 1152b1abc9d9e47aa128ea41c1b9fe0e476e69bf7d9a81c9bb2b30144c3222fa
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.1.0/elasticsearch-curator-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v1
+    appVersion: 5.7.6
+    created: "2020-08-13T15:00:07.135843209+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: e31f7d344cd0c1fa845fbdc8f7f10826e046b7e9ddf0755a3e1687368b218974
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.0.3/elasticsearch-curator-2.0.3.tgz
+    version: 2.0.3
+  - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-13T13:22:02.578572415Z"
+    created: "2020-08-13T15:00:07.135151316+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: 3ed47c5fd0dd5b37058ea9c9c2284640bf90465a3fe6375a5d4039353df8080e
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.0.2/elasticsearch-curator-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.134494665+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: 0b61d1611ea4f5877fe8cc67eddcd4d06eadf4f9e3839221135b6b75f7a715ec
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.0.1/elasticsearch-curator-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.133818726+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: d0e64b861b639717cf8c6e01ef48dee75b3f9a41259eb7862b4e9accef3e5bb1
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: cedric.dsm@gmail.com
+      name: desaintmartin
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-2.0.0/elasticsearch-curator-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.133103702+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: ee96a722e1312a03075359f18ed706a614b9f75a1708fe233e8901e8c2063224
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: mestdagh.tom@gmail.com
+      name: tmestdagh
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.5.0/elasticsearch-curator-1.5.0.tgz
+    version: 1.5.0
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.132494828+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: 2e57e18606d0cf74df0ed6ccbbd9d626c3c16c3ef896498f11fa97a40dc0ee14
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: mestdagh.tom@gmail.com
+      name: tmestdagh
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.4.0/elasticsearch-curator-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.13177803+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: 859fdd6fc697e9e7b98b5b19572da34249d7f3b50e614c45f6879ca3b2a0521f
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: mestdagh.tom@gmail.com
+      name: tmestdagh
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.3.2/elasticsearch-curator-1.3.2.tgz
+    version: 1.3.2
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.130482799+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: a9a6a8a417e15494e83652d78b0745cedf9cd8d899d7fab3ee0f10391d839fa9
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: mestdagh.tom@gmail.com
+      name: tmestdagh
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.3.1/elasticsearch-curator-1.3.1.tgz
+    version: 1.3.1
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.129905497+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: 24c71be4b0f86a62d3e01f1928eb9f6bfda8e71e00621ae7927d8bf87fad82ea
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: mestdagh.tom@gmail.com
+      name: tmestdagh
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.2.1/elasticsearch-curator-1.2.1.tgz
+    version: 1.2.1
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.12857356+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: c824fe1f360eb10dfe254f8b6bb95986e86151903cc8b0f649e90ad992258fe6
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: mestdagh.tom@gmail.com
+      name: tmestdagh
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.2.0/elasticsearch-curator-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.127917287+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: 56431c3607a4c31abd3a648ab60749fa5ff98d1f2b4cf67dc9275e241f70eaba
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: mestdagh.tom@gmail.com
+      name: tmestdagh
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.1.0/elasticsearch-curator-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.127416683+01:00"
+    description: A Helm chart for Elasticsearch Curator
+    digest: c5dda101c97bf476e423861cfb4128bd16b7cd94b1a04201e04514bc9d1631d4
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    maintainers:
+    - email: mestdagh.tom@gmail.com
+      name: tmestdagh
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.0.1/elasticsearch-curator-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: 5.5.4
+    created: "2020-08-13T15:00:07.126950345+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 4e18bf2914571df5ba4dfd35a294247858dc21045c4ad958655ee8e8d91fcc8e
     home: https://github.com/elastic/curator
@@ -67,4 +465,4 @@ entries:
     urls:
     - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.0.0/elasticsearch-curator-1.0.0.tgz
     version: 1.0.0
-generated: "2020-08-13T10:30:32.082899138Z"
+generated: "2020-08-13T15:00:07.126332014+01:00"
