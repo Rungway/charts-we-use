@@ -465,4 +465,26 @@ entries:
     urls:
     - https://github.com/Rungway/charts-we-use/releases/download/elasticsearch-curator-1.0.0/elasticsearch-curator-1.0.0.tgz
     version: 1.0.0
+  fluent-bit:
+  - apiVersion: v1
+    appVersion: 0.11.7
+    created: "2020-08-13T14:22:31.382255049Z"
+    description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
+    digest: ea0b87ac75a21181219f9f8270d370643402ccf301de77f8c51d217a59e5c1cb
+    home: http://fluentbit.io
+    icon: http://fluentbit.io/assets/img/logo1-default.png
+    keywords:
+    - fluent
+    - bit
+    maintainers:
+    - email: eduardo@treasure-data.com
+      name: edsiper
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    name: fluent-bit
+    sources:
+    - http://fluentbit.io
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-0.1.0/fluent-bit-0.1.0.tgz
+    version: 0.1.0
 generated: "2020-08-13T15:00:07.126332014+01:00"
