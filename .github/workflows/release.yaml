@@ -6,11 +6,6 @@ on:
       - master
     paths:
       - 'charts/**'
-  create:
-    branches:
-      - master
-    paths:
-      - 'charts/**'
   workflow_dispatch: {}
 
 jobs:
