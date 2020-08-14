@@ -3,7 +3,7 @@ entries:
   elasticsearch-curator:
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-14T10:26:44.834024998+01:00"
+    created: "2020-08-14T14:26:19.272271075+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: fab7eb6391c05cb2dfc95054f1774750e90a1d81f27ca7282c5624784a322ddf
     home: https://github.com/elastic/curator
@@ -25,7 +25,7 @@ entries:
     version: 2.2.1
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-14T10:26:44.609195844+01:00"
+    created: "2020-08-14T14:26:18.739655497+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: d9e3f218831bd5080a8b004660048655481533700bd207833221e90ac159cac4
     home: https://github.com/elastic/curator
@@ -49,7 +49,7 @@ entries:
     version: 2.2.0
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-14T10:26:44.229749268+01:00"
+    created: "2020-08-14T14:26:18.547773435+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: ce7613df5e955d6b985c80717096fdbef213b5864e0196821ba3600182a6a28b
     home: https://github.com/elastic/curator
@@ -71,7 +71,7 @@ entries:
     version: 2.1.5
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-14T10:26:44.023569991+01:00"
+    created: "2020-08-14T14:26:18.345941794+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 85ecc91647c9925e6578265dd0f78149d16f251dbf2f629eba46afb645fc9c05
     home: https://github.com/elastic/curator
@@ -93,7 +93,7 @@ entries:
     version: 2.1.4
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-14T10:26:43.812207027+01:00"
+    created: "2020-08-14T14:26:18.042202665+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: eee73b63977c0116efed543161563754d13f0375a390a861657c72c2427cf5d0
     home: https://github.com/elastic/curator
@@ -115,7 +115,7 @@ entries:
     version: 2.1.3
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-14T10:26:43.199139195+01:00"
+    created: "2020-08-14T14:26:17.728813825+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 176341f94b76d64987155307a2698bc87cf7eab9c8959e7ddbbe8f06add7ac9c
     home: https://github.com/elastic/curator
@@ -137,7 +137,7 @@ entries:
     version: 2.1.2
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-14T10:26:42.886680706+01:00"
+    created: "2020-08-14T14:26:17.422506904+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 1e1471438594e1c84e700cbfdaa05f93cc14f9cd01636b0f08407e2007680ca2
     home: https://github.com/elastic/curator
@@ -159,7 +159,7 @@ entries:
     version: 2.1.1
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-14T10:26:42.580019324+01:00"
+    created: "2020-08-14T14:26:17.112694102+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 1152b1abc9d9e47aa128ea41c1b9fe0e476e69bf7d9a81c9bb2b30144c3222fa
     home: https://github.com/elastic/curator
@@ -181,7 +181,7 @@ entries:
     version: 2.1.0
   - apiVersion: v1
     appVersion: 5.7.6
-    created: "2020-08-14T10:26:42.271979562+01:00"
+    created: "2020-08-14T14:26:16.900551018+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: e31f7d344cd0c1fa845fbdc8f7f10826e046b7e9ddf0755a3e1687368b218974
     home: https://github.com/elastic/curator
@@ -203,7 +203,7 @@ entries:
     version: 2.0.3
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:41.967670319+01:00"
+    created: "2020-08-14T14:26:16.709792214+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 3ed47c5fd0dd5b37058ea9c9c2284640bf90465a3fe6375a5d4039353df8080e
     home: https://github.com/elastic/curator
@@ -225,7 +225,7 @@ entries:
     version: 2.0.2
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:41.663039406+01:00"
+    created: "2020-08-14T14:26:16.354807432+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 0b61d1611ea4f5877fe8cc67eddcd4d06eadf4f9e3839221135b6b75f7a715ec
     home: https://github.com/elastic/curator
@@ -247,7 +247,7 @@ entries:
     version: 2.0.1
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:41.352079758+01:00"
+    created: "2020-08-14T14:26:16.000718108+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: d0e64b861b639717cf8c6e01ef48dee75b3f9a41259eb7862b4e9accef3e5bb1
     home: https://github.com/elastic/curator
@@ -269,7 +269,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:40.979078123+01:00"
+    created: "2020-08-14T14:26:15.803736272+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: ee96a722e1312a03075359f18ed706a614b9f75a1708fe233e8901e8c2063224
     home: https://github.com/elastic/curator
@@ -291,7 +291,7 @@ entries:
     version: 1.5.0
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:40.735681586+01:00"
+    created: "2020-08-14T14:26:15.583004158+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 2e57e18606d0cf74df0ed6ccbbd9d626c3c16c3ef896498f11fa97a40dc0ee14
     home: https://github.com/elastic/curator
@@ -313,7 +313,7 @@ entries:
     version: 1.4.0
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:40.428556881+01:00"
+    created: "2020-08-14T14:26:15.341326217+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 859fdd6fc697e9e7b98b5b19572da34249d7f3b50e614c45f6879ca3b2a0521f
     home: https://github.com/elastic/curator
@@ -335,7 +335,7 @@ entries:
     version: 1.3.2
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:40.122382604+01:00"
+    created: "2020-08-14T14:26:15.119185371+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: a9a6a8a417e15494e83652d78b0745cedf9cd8d899d7fab3ee0f10391d839fa9
     home: https://github.com/elastic/curator
@@ -357,7 +357,7 @@ entries:
     version: 1.3.1
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:39.820633582+01:00"
+    created: "2020-08-14T14:26:14.914426044+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 24c71be4b0f86a62d3e01f1928eb9f6bfda8e71e00621ae7927d8bf87fad82ea
     home: https://github.com/elastic/curator
@@ -379,7 +379,7 @@ entries:
     version: 1.2.1
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:39.509049685+01:00"
+    created: "2020-08-14T14:26:14.60884666+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: c824fe1f360eb10dfe254f8b6bb95986e86151903cc8b0f649e90ad992258fe6
     home: https://github.com/elastic/curator
@@ -401,7 +401,7 @@ entries:
     version: 1.2.0
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:39.199828435+01:00"
+    created: "2020-08-14T14:26:14.149044283+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 56431c3607a4c31abd3a648ab60749fa5ff98d1f2b4cf67dc9275e241f70eaba
     home: https://github.com/elastic/curator
@@ -423,7 +423,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:38.892899762+01:00"
+    created: "2020-08-14T14:26:13.940093667+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: c5dda101c97bf476e423861cfb4128bd16b7cd94b1a04201e04514bc9d1631d4
     home: https://github.com/elastic/curator
@@ -445,7 +445,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 5.5.4
-    created: "2020-08-14T10:26:38.279731823+01:00"
+    created: "2020-08-14T14:26:13.742047461+01:00"
     description: A Helm chart for Elasticsearch Curator
     digest: 4e18bf2914571df5ba4dfd35a294247858dc21045c4ad958655ee8e8d91fcc8e
     home: https://github.com/elastic/curator
@@ -468,7 +468,7 @@ entries:
   fluent-bit:
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:12.686092987+01:00"
+    created: "2020-08-14T14:26:44.236247858+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 6e620fab33bf3fc8140043819b673749a78f9ac1ca43a58bd10a768c5f500275
     home: https://fluentbit.io
@@ -493,7 +493,7 @@ entries:
     version: 2.10.0
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:22.161236671+01:00"
+    created: "2020-08-14T14:26:54.601704443+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: fbb125634345d88d8fd67b0cb4fd2c0465566f3897a64cc310a4a9b48e1d002c
     home: https://fluentbit.io
@@ -518,7 +518,7 @@ entries:
     version: 2.9.0
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:19.444785107+01:00"
+    created: "2020-08-14T14:26:51.529959399+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: d484b22be686a6a63810b1ecf8664b08e212ff29a5bd76018583164f398aa3b9
     home: https://fluentbit.io
@@ -543,7 +543,7 @@ entries:
     version: 2.8.17
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:19.138418484+01:00"
+    created: "2020-08-14T14:26:51.113780042+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: c2f902e718731c09b6df9fff1484d5d493bbc647b78947086da8f686c723780c
     home: https://fluentbit.io
@@ -568,7 +568,7 @@ entries:
     version: 2.8.16
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:18.740832112+01:00"
+    created: "2020-08-14T14:26:50.906094371+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 2ecce8929c0fba792f70ea41cd8f7277b1e2ae2478974aaaf3cbfd3d5ab0464c
     home: https://fluentbit.io
@@ -593,7 +593,7 @@ entries:
     version: 2.8.15
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:18.522548741+01:00"
+    created: "2020-08-14T14:26:50.604285673+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: eb94166c703174c6344d4e59ae2d8b8f5d86d694032d1dbefa57ed4272dc9c2c
     home: https://fluentbit.io
@@ -618,7 +618,7 @@ entries:
     version: 2.8.14
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:18.154979836+01:00"
+    created: "2020-08-14T14:26:50.295951836+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 67f31b49eeecc28d7092a3bef9bb01d5b09eebe88fed9fab7c05a522196f4e93
     home: https://fluentbit.io
@@ -643,7 +643,7 @@ entries:
     version: 2.8.13
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:17.946601791+01:00"
+    created: "2020-08-14T14:26:49.987139957+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 352eb0ef68b7c72fa29e6ab90e734a44ce6d5ea3d6c4fa628add525d5e2e8f0d
     home: https://fluentbit.io
@@ -668,7 +668,7 @@ entries:
     version: 2.8.12
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:17.703507188+01:00"
+    created: "2020-08-14T14:26:49.620653074+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 5a06094acf80291b2c7a87630be2a1af5e1c96ebccd75c2ce97fde3461c82bd9
     home: https://fluentbit.io
@@ -693,7 +693,7 @@ entries:
     version: 2.8.11
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:17.481717817+01:00"
+    created: "2020-08-14T14:26:49.375599401+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: ef6cf6f566d04ea24c539361f6b47ac263622a5e3aec2ede713bed39a6badabb
     home: https://fluentbit.io
@@ -718,7 +718,7 @@ entries:
     version: 2.8.10
   - apiVersion: v1
     appVersion: 1.3.7
-    created: "2020-08-14T10:27:21.901500193+01:00"
+    created: "2020-08-14T14:26:54.213753173+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 30cc5d5a555aa291929aec6e1ba0d835bf73de03fc7975158eb3460bd3a2aec0
     home: https://fluentbit.io
@@ -743,7 +743,7 @@ entries:
     version: 2.8.9
   - apiVersion: v1
     appVersion: 1.3.5
-    created: "2020-08-14T10:27:21.599470764+01:00"
+    created: "2020-08-14T14:26:53.984744479+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 2b5dc8ed2a9b3a5df94cce801ed328e80820cf3175bece650b95ba463e88eb2e
     home: https://fluentbit.io
@@ -768,7 +768,7 @@ entries:
     version: 2.8.8
   - apiVersion: v1
     appVersion: 1.3.5
-    created: "2020-08-14T10:27:21.290183341+01:00"
+    created: "2020-08-14T14:26:53.366693098+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 38843fd4090eb3ffb9b112de54f90926f557b0724cd5f40f9f75725d97eb7caa
     home: https://fluentbit.io
@@ -793,7 +793,7 @@ entries:
     version: 2.8.7
   - apiVersion: v1
     appVersion: 1.3.5
-    created: "2020-08-14T10:27:20.98001237+01:00"
+    created: "2020-08-14T14:26:53.06411754+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: fa7495abc0c248dedf663164e6b948f518ab92588727247d718d8b24d8217e6c
     home: https://fluentbit.io
@@ -818,7 +818,7 @@ entries:
     version: 2.8.6
   - apiVersion: v1
     appVersion: 1.3.5
-    created: "2020-08-14T10:27:20.672475643+01:00"
+    created: "2020-08-14T14:26:52.748865642+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 59c0f1b6f91db7c0cbf26dac15b04d52639bca5ada5909cad7dbfdda911db9ca
     home: https://fluentbit.io
@@ -843,7 +843,7 @@ entries:
     version: 2.8.5
   - apiVersion: v1
     appVersion: 1.3.2
-    created: "2020-08-14T10:27:20.365978643+01:00"
+    created: "2020-08-14T14:26:52.356872881+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 992a2490e586cbe5ae81d8ed3e824450e6900908f06f9d5e1393293ad212ee12
     home: https://fluentbit.io
@@ -868,7 +868,7 @@ entries:
     version: 2.8.4
   - apiVersion: v1
     appVersion: 1.3.2
-    created: "2020-08-14T10:27:20.058555847+01:00"
+    created: "2020-08-14T14:26:52.140675503+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: b0d16cdad628edbc5a4d928dbdbe30f43d49d49f0a60fe629355e2683d7def60
     home: https://fluentbit.io
@@ -893,7 +893,7 @@ entries:
     version: 2.8.3
   - apiVersion: v1
     appVersion: 1.3.2
-    created: "2020-08-14T10:27:19.756923002+01:00"
+    created: "2020-08-14T14:26:51.762957371+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 0def3e11dc70c3658770c060ec2fb3253025d211ec98d3ceba56b35e5ea77219
     home: https://fluentbit.io
@@ -918,7 +918,7 @@ entries:
     version: 2.8.2
   - apiVersion: v1
     appVersion: 1.3.2
-    created: "2020-08-14T10:27:17.115925965+01:00"
+    created: "2020-08-14T14:26:49.066885428+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: d436b62718b539d348618d56855eb7cd1c0ecc527221d2ff296c7ead2b28ae6f
     home: https://fluentbit.io
@@ -943,7 +943,7 @@ entries:
     version: 2.8.1
   - apiVersion: v1
     appVersion: 1.3.2
-    created: "2020-08-14T10:27:16.887081956+01:00"
+    created: "2020-08-14T14:26:48.759029845+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: ca06c5c88f976526ee02015856cc631c615e02a564f29cd95ff90e2a565423d0
     home: https://fluentbit.io
@@ -968,7 +968,7 @@ entries:
     version: 2.8.0
   - apiVersion: v1
     appVersion: 1.2.2
-    created: "2020-08-14T10:27:16.65976852+01:00"
+    created: "2020-08-14T14:26:48.454353391+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: f789d8d630f6eba0055e529dfcc20c4ff6858672aa3e62062c13c9c1e4a36802
     home: https://fluentbit.io
@@ -993,7 +993,7 @@ entries:
     version: 2.7.3
   - apiVersion: v1
     appVersion: 1.2.2
-    created: "2020-08-14T10:27:16.383289402+01:00"
+    created: "2020-08-14T14:26:48.146073103+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: e5cd9202f5086e64245dac409dcee27313150a79caf10f3b7b2140921f3770ca
     home: https://fluentbit.io
@@ -1018,7 +1018,7 @@ entries:
     version: 2.7.2
   - apiVersion: v1
     appVersion: 1.2.2
-    created: "2020-08-14T10:27:16.166968781+01:00"
+    created: "2020-08-14T14:26:47.836595827+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: a8cbfa46e0615863a7bcc46a41200778f012d1c979097cc1a4e2bd24039c9849
     home: https://fluentbit.io
@@ -1043,7 +1043,7 @@ entries:
     version: 2.7.1
   - apiVersion: v1
     appVersion: 1.2.2
-    created: "2020-08-14T10:27:15.924041231+01:00"
+    created: "2020-08-14T14:26:47.536262818+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 92f5f35740292185e2122e769604a28d4c209d7a8d9dbc2e7f97bbd3db242d48
     home: https://fluentbit.io
@@ -1068,7 +1068,7 @@ entries:
     version: 2.7.0
   - apiVersion: v1
     appVersion: 1.2.2
-    created: "2020-08-14T10:27:15.656491475+01:00"
+    created: "2020-08-14T14:26:46.751549947+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 71f6a930b723f00ea534013c7638c3f4c2b0dc167e0dc1395ce2585f9b3bfd54
     home: https://fluentbit.io
@@ -1093,7 +1093,7 @@ entries:
     version: 2.6.0
   - apiVersion: v1
     appVersion: 1.2.2
-    created: "2020-08-14T10:27:15.426888403+01:00"
+    created: "2020-08-14T14:26:46.408960642+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 2a1756c4eb6e65d63be2accfa50b5166ed2373adc9d0770a0cd156fd6c3f10cd
     home: https://fluentbit.io
@@ -1118,7 +1118,7 @@ entries:
     version: 2.5.0
   - apiVersion: v1
     appVersion: 1.2.2
-    created: "2020-08-14T10:27:15.143377268+01:00"
+    created: "2020-08-14T14:26:46.19886828+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: d0cf4bb41f55839c468c23849253ddc4acb63b510f8dd896621a52ad746865a1
     home: https://fluentbit.io
@@ -1143,7 +1143,7 @@ entries:
     version: 2.4.4
   - apiVersion: v1
     appVersion: 1.2.1
-    created: "2020-08-14T10:27:14.836080272+01:00"
+    created: "2020-08-14T14:26:45.97873207+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 5b8fab67509903cb895f3dd0e0fac7af952772a90cdab8aeea85308c57be6762
     home: https://fluentbit.io
@@ -1168,7 +1168,7 @@ entries:
     version: 2.4.3
   - apiVersion: v1
     appVersion: 1.2.1
-    created: "2020-08-14T10:27:14.529494379+01:00"
+    created: "2020-08-14T14:26:45.780791574+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: b3402211c40e90f1416116282ca1d6f40bae75a5a5ffcee699b637cd93df6732
     home: https://fluentbit.io
@@ -1193,7 +1193,7 @@ entries:
     version: 2.4.2
   - apiVersion: v1
     appVersion: 1.2.1
-    created: "2020-08-14T10:27:14.138611491+01:00"
+    created: "2020-08-14T14:26:45.587045284+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 2aca877caa8d2ae733d4f3a0cbf76cbead04d6c03e585c7f92b8c29a5b15f240
     home: https://fluentbit.io
@@ -1218,7 +1218,7 @@ entries:
     version: 2.4.1
   - apiVersion: v1
     appVersion: 1.2.1
-    created: "2020-08-14T10:27:13.919240191+01:00"
+    created: "2020-08-14T14:26:45.341083388+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: e6f53fdf2ad39d636ceac6d20e6163281e546cfc790f6c909b836ad245317518
     home: https://fluentbit.io
@@ -1243,7 +1243,7 @@ entries:
     version: 2.4.0
   - apiVersion: v1
     appVersion: 1.2.1
-    created: "2020-08-14T10:27:13.299779561+01:00"
+    created: "2020-08-14T14:26:44.912784499+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 8060a344a88e05b114741e77a2577158614ba65c1072efa8c867f8f31cc91a69
     home: https://fluentbit.io
@@ -1268,7 +1268,7 @@ entries:
     version: 2.3.0
   - apiVersion: v1
     appVersion: 1.2.1
-    created: "2020-08-14T10:27:12.997222663+01:00"
+    created: "2020-08-14T14:26:44.690675759+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 4389ac2eca30b129a98e218fb94ff8863f3bdf203998978e882e1b98f8cf55b5
     home: https://fluentbit.io
@@ -1293,7 +1293,7 @@ entries:
     version: 2.2.0
   - apiVersion: v1
     appVersion: 1.2.0
-    created: "2020-08-14T10:27:12.37163811+01:00"
+    created: "2020-08-14T14:26:43.755363511+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: c6db88baacbbc356e1aafdd58eb39795dfcff0aac36e7917c28516dcdb8496a4
     home: https://fluentbit.io
@@ -1318,7 +1318,7 @@ entries:
     version: 2.1.1
   - apiVersion: v1
     appVersion: 1.2.0
-    created: "2020-08-14T10:27:12.074401011+01:00"
+    created: "2020-08-14T14:26:43.539119248+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 0b082d6d5c213d6e5ab6957202da572e41a5a55e97775c3c32fee83f0d6a2dbe
     home: https://fluentbit.io
@@ -1343,7 +1343,7 @@ entries:
     version: 2.1.0
   - apiVersion: v1
     appVersion: 1.1.3
-    created: "2020-08-14T10:27:11.453236847+01:00"
+    created: "2020-08-14T14:26:43.154937022+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 5399fea2270594115fc2cf1f0b0ce93948f514fb16efcb3c02a8cbf36dd16054
     home: https://fluentbit.io
@@ -1368,7 +1368,7 @@ entries:
     version: 2.0.6
   - apiVersion: v1
     appVersion: 1.1.2
-    created: "2020-08-14T10:27:11.150080623+01:00"
+    created: "2020-08-14T14:26:42.920625202+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: aab8142b440ed3dc9571319c864f701099705c4b73fe2704aa8d51589140e32c
     home: http://fluentbit.io
@@ -1393,7 +1393,7 @@ entries:
     version: 2.0.5
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-08-14T10:27:10.752040911+01:00"
+    created: "2020-08-14T14:26:42.610807027+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 703db634c8bead65992b93c4aefc658e92ef5d90a789ea80b67dd04f9d6cc8e1
     home: http://fluentbit.io
@@ -1418,7 +1418,7 @@ entries:
     version: 2.0.4
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-08-14T10:27:10.535100554+01:00"
+    created: "2020-08-14T14:26:42.201010916+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 4a8e364bad31f4721cb2df7758341d106df8b15cc7bc142581e3538bdb17d55f
     home: http://fluentbit.io
@@ -1443,7 +1443,7 @@ entries:
     version: 2.0.3
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-08-14T10:27:10.22919765+01:00"
+    created: "2020-08-14T14:26:41.998702931+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: bb76b39f810463a69e0c4635102d5bff581f8417e2f6feba312a9118543aa821
     home: http://fluentbit.io
@@ -1466,7 +1466,7 @@ entries:
     version: 2.0.2
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-08-14T10:27:09.620717893+01:00"
+    created: "2020-08-14T14:26:41.69598496+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: be398c20a274f716167f971b0dad64ed2fa452679f65056362878de7307dd10c
     home: http://fluentbit.io
@@ -1489,7 +1489,7 @@ entries:
     version: 2.0.1
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-08-14T10:27:09.004315364+01:00"
+    created: "2020-08-14T14:26:41.384907991+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 0d45af51e00aa61fc9b350376c689a38bc8dae2ff8ada4000024614f0514a7f5
     home: http://fluentbit.io
@@ -1512,7 +1512,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 1.0.6
-    created: "2020-08-14T10:27:02.240339555+01:00"
+    created: "2020-08-14T14:26:35.550387727+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 5c42cc11f6579e04d272974762488a7df86aa7687f19cd53e7394d1d46e8cfa9
     home: http://fluentbit.io
@@ -1535,7 +1535,7 @@ entries:
     version: 1.10.3
   - apiVersion: v1
     appVersion: 1.0.6
-    created: "2020-08-14T10:27:01.934151544+01:00"
+    created: "2020-08-14T14:26:35.347748893+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: cbcb57dd60ddacabe3eeb065282d26a86784dacf06ca1d7a7a76205a9de83cec
     home: http://fluentbit.io
@@ -1558,7 +1558,7 @@ entries:
     version: 1.10.2
   - apiVersion: v1
     appVersion: 1.0.6
-    created: "2020-08-14T10:27:01.631976286+01:00"
+    created: "2020-08-14T14:26:35.138810068+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: e2f1c92e057a99e87dd080cbb0f315e321e1fe79f1df4deba3d1e64a47f57624
     home: http://fluentbit.io
@@ -1581,7 +1581,7 @@ entries:
     version: 1.10.1
   - apiVersion: v1
     appVersion: 1.0.6
-    created: "2020-08-14T10:27:01.320324141+01:00"
+    created: "2020-08-14T14:26:34.919490777+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: c972f54a6b83d414174a59be0b3785258dfbb2687dba4138e88a1611014feb3e
     home: http://fluentbit.io
@@ -1604,7 +1604,7 @@ entries:
     version: 1.10.0
   - apiVersion: v1
     appVersion: 1.0.6
-    created: "2020-08-14T10:27:08.69720358+01:00"
+    created: "2020-08-14T14:26:41.082235779+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 74a78928cf446c583a5147dee2db9eadcaecb3f79a461320aef8d37d6daf275d
     home: http://fluentbit.io
@@ -1627,7 +1627,7 @@ entries:
     version: 1.9.2
   - apiVersion: v1
     appVersion: 1.0.6
-    created: "2020-08-14T10:27:08.384815619+01:00"
+    created: "2020-08-14T14:26:40.762425925+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 8a5874883d2f340f60cf5ebab76493ff564519d965770368dc4d97a2038c1550
     home: http://fluentbit.io
@@ -1650,7 +1650,7 @@ entries:
     version: 1.9.1
   - apiVersion: v1
     appVersion: 1.0.5
-    created: "2020-08-14T10:27:08.078391722+01:00"
+    created: "2020-08-14T14:26:40.359003177+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 211cbd6ddeab9d9b1c1f3beb98cb6a0fff21a0cd92ea1daefbb0d4a2febc88ad
     home: http://fluentbit.io
@@ -1673,7 +1673,7 @@ entries:
     version: 1.9.0
   - apiVersion: v1
     appVersion: 1.0.5
-    created: "2020-08-14T10:27:07.776091574+01:00"
+    created: "2020-08-14T14:26:40.158885425+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: e800ab12a048feeb95214682de93a0297d95e10b1eac4bf61a16d70d6a2460a0
     home: http://fluentbit.io
@@ -1696,7 +1696,7 @@ entries:
     version: 1.8.2
   - apiVersion: v1
     appVersion: 1.0.5
-    created: "2020-08-14T10:27:07.462819334+01:00"
+    created: "2020-08-14T14:26:39.850336447+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: ef24bde3261623075320467b4f77b0ee75b2573d939bcdace508f41ef077403e
     home: http://fluentbit.io
@@ -1719,7 +1719,7 @@ entries:
     version: 1.8.1
   - apiVersion: v1
     appVersion: 1.0.4
-    created: "2020-08-14T10:27:07.158461738+01:00"
+    created: "2020-08-14T14:26:39.548945116+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: bea1dd76992f83d6ccf469c343b71d7cc7ed4c310f129534789382643aa24d1c
     home: http://fluentbit.io
@@ -1742,7 +1742,7 @@ entries:
     version: 1.8.0
   - apiVersion: v1
     appVersion: 1.0.4
-    created: "2020-08-14T10:27:06.748287005+01:00"
+    created: "2020-08-14T14:26:39.132631584+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 5795b7a3126cb9f3e942afd19f7b3cde6bdc98488b2f27c566990fff423813f8
     home: http://fluentbit.io
@@ -1765,7 +1765,7 @@ entries:
     version: 1.7.0
   - apiVersion: v1
     appVersion: 1.0.4
-    created: "2020-08-14T10:27:06.235039451+01:00"
+    created: "2020-08-14T14:26:38.931925814+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: dd32494a0058e16e3beeb4ef9ed61c9a6174a38a0131919b79e51f241b514750
     home: http://fluentbit.io
@@ -1788,7 +1788,7 @@ entries:
     version: 1.6.0
   - apiVersion: v1
     appVersion: 1.0.4
-    created: "2020-08-14T10:27:05.923217937+01:00"
+    created: "2020-08-14T14:26:38.620248033+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: ad6273199a8e2ab285fb6211237268454d31c9cd37d34fd6564003a8eacb7ad9
     home: http://fluentbit.io
@@ -1811,7 +1811,7 @@ entries:
     version: 1.5.2
   - apiVersion: v1
     appVersion: 1.0.3
-    created: "2020-08-14T10:27:05.624769332+01:00"
+    created: "2020-08-14T14:26:38.316767987+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 314b69e00e8358240430e5e988a47bb92be003bce0e9f35b9d049885d2d4cad2
     home: http://fluentbit.io
@@ -1834,7 +1834,7 @@ entries:
     version: 1.5.1
   - apiVersion: v1
     appVersion: 1.0.3
-    created: "2020-08-14T10:27:05.313387894+01:00"
+    created: "2020-08-14T14:26:38.010220563+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 22c7d3d495dd3b7cdc55268ed1bf4443fcf3665056285349ca349d7c5de979e6
     home: http://fluentbit.io
@@ -1857,7 +1857,7 @@ entries:
     version: 1.5.0
   - apiVersion: v1
     appVersion: 1.0.3
-    created: "2020-08-14T10:27:04.918034181+01:00"
+    created: "2020-08-14T14:26:37.70049835+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 82771a6dbe65d4eb7b26af0c60240fe871fcf2741e1118e3d49abe2d476835f5
     home: http://fluentbit.io
@@ -1880,7 +1880,7 @@ entries:
     version: 1.4.1
   - apiVersion: v1
     appVersion: 1.0.3
-    created: "2020-08-14T10:27:04.61051055+01:00"
+    created: "2020-08-14T14:26:37.391553919+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 109c0e30af33d9b353535bf11ffc1036e46b58e9ca5f210fb9b91f2acb66cc03
     home: http://fluentbit.io
@@ -1903,7 +1903,7 @@ entries:
     version: 1.4.0
   - apiVersion: v1
     appVersion: 1.0.3
-    created: "2020-08-14T10:27:04.39032436+01:00"
+    created: "2020-08-14T14:26:37.159689955+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 533709d098c28f1f57d7bc743793b82540aaf347c986381a7a5b704ccb0a8e80
     home: http://fluentbit.io
@@ -1926,7 +1926,7 @@ entries:
     version: 1.3.3
   - apiVersion: v1
     appVersion: 1.0.2
-    created: "2020-08-14T10:27:04.083121858+01:00"
+    created: "2020-08-14T14:26:36.931882454+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 205d52913839d41bbcef326f5ba509330f62d035073233493aba74c3cfbc191d
     home: http://fluentbit.io
@@ -1949,7 +1949,7 @@ entries:
     version: 1.3.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2020-08-14T10:27:03.469684067+01:00"
+    created: "2020-08-14T14:26:36.731905857+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 068b335d0976ddb12c1b8bfd667805b97b051c0ced1602d95d09673f75f21e6b
     home: http://fluentbit.io
@@ -1972,7 +1972,7 @@ entries:
     version: 1.3.0
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2020-08-14T10:27:02.958570764+01:00"
+    created: "2020-08-14T14:26:36.357671011+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 0bbc581f8f1aa63a6049cdde0f10075e4e3fd5e94ec02960df5c3b724b5300de
     home: http://fluentbit.io
@@ -1995,7 +1995,7 @@ entries:
     version: 1.2.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2020-08-14T10:27:02.703629205+01:00"
+    created: "2020-08-14T14:26:35.961635611+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 10c6f73006689e9acb58787942ddc426ffb5ca72b11ff4d1ba64233c6d63d5e0
     home: http://fluentbit.io
@@ -2018,7 +2018,7 @@ entries:
     version: 1.2.1
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2020-08-14T10:27:02.455263552+01:00"
+    created: "2020-08-14T14:26:35.760841154+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 05fc5252486b6469ae4257a28575af958b24ae23497edb8350d475df2e134a1e
     home: http://fluentbit.io
@@ -2041,7 +2041,7 @@ entries:
     version: 1.2.0
   - apiVersion: v1
     appVersion: 0.14.9
-    created: "2020-08-14T10:27:00.981474471+01:00"
+    created: "2020-08-14T14:26:34.609516719+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: f412f895f46f8d52db91b5940be88ca869566d54337a6a0bf227a099c3727f01
     home: http://fluentbit.io
@@ -2064,7 +2064,7 @@ entries:
     version: 1.1.1
   - apiVersion: v1
     appVersion: 0.14.9
-    created: "2020-08-14T10:27:00.400322936+01:00"
+    created: "2020-08-14T14:26:34.132560477+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: d5a82f5f9f6fb61d146f70f5c126ca53d655a894fd0881f8274dbe2add575b80
     home: http://fluentbit.io
@@ -2087,7 +2087,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 0.14.9
-    created: "2020-08-14T10:27:00.014323153+01:00"
+    created: "2020-08-14T14:26:33.806531993+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 5d9cd3fd314f244c8a8f1020a7515fe8beeb738d625532a47e9cd5043d23343e
     home: http://fluentbit.io
@@ -2110,7 +2110,7 @@ entries:
     version: 1.0.3
   - apiVersion: v1
     appVersion: 0.14.9
-    created: "2020-08-14T10:26:59.783711653+01:00"
+    created: "2020-08-14T14:26:33.602550028+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 623ada1e2957c63b87f5860be793938daf8412ebadeff4f25b31330a033029ce
     home: http://fluentbit.io
@@ -2133,7 +2133,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 0.14.8
-    created: "2020-08-14T10:26:59.475968023+01:00"
+    created: "2020-08-14T14:26:33.396916433+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: c9e4c9fd5fd258c3cbe19a4d55a312401f50cd8805725980769c34830873d832
     home: http://fluentbit.io
@@ -2156,7 +2156,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 0.14.8
-    created: "2020-08-14T10:26:59.168142068+01:00"
+    created: "2020-08-14T14:26:33.089994399+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 847bd238047a2745b2e2aaef0a108ab1842c7aae1b2ebf966e151790aceb56ba
     home: http://fluentbit.io
@@ -2179,7 +2179,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.14.8
-    created: "2020-08-14T10:26:51.488752797+01:00"
+    created: "2020-08-14T14:26:25.446325875+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: b84ee62ca5da2f6675fea2f3b6b33bd693cffcda38fa22d6b097d0d6d08f58f2
     home: http://fluentbit.io
@@ -2202,7 +2202,7 @@ entries:
     version: 0.16.3
   - apiVersion: v1
     appVersion: 0.14.6
-    created: "2020-08-14T10:26:51.180989795+01:00"
+    created: "2020-08-14T14:26:25.217596274+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 48282fa3899ebfabac6236355ce6a1ff1b88ab9aa6a1b55789c8db19968e2056
     home: http://fluentbit.io
@@ -2225,7 +2225,7 @@ entries:
     version: 0.16.2
   - apiVersion: v1
     appVersion: 0.14.6
-    created: "2020-08-14T10:26:50.879297639+01:00"
+    created: "2020-08-14T14:26:25.012484283+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 10a5462a052a60ec06cedb115247e39be4564ff4e6f4cc450d6e2e98188a7353
     home: http://fluentbit.io
@@ -2248,7 +2248,7 @@ entries:
     version: 0.16.1
   - apiVersion: v1
     appVersion: 0.14.4
-    created: "2020-08-14T10:26:50.56963113+01:00"
+    created: "2020-08-14T14:26:24.800861864+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 047ae59aac6b61d9a67d4954505dc199fc4ac9afb29b03c360e227a4be1bb9bf
     home: http://fluentbit.io
@@ -2271,7 +2271,7 @@ entries:
     version: 0.16.0
   - apiVersion: v1
     appVersion: 0.14.4
-    created: "2020-08-14T10:26:50.259447324+01:00"
+    created: "2020-08-14T14:26:24.495155525+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 04c3c68d009d4e388a5b8e54abce07c33079d67ef89daf9b5f7f49176f56f168
     home: http://fluentbit.io
@@ -2294,7 +2294,7 @@ entries:
     version: 0.15.1
   - apiVersion: v1
     appVersion: 0.14.4
-    created: "2020-08-14T10:26:49.952041103+01:00"
+    created: "2020-08-14T14:26:24.132470897+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 0ec07f97b8129294f7e01599cb7c4824241205f837d9db0bcb6841038ef8e1de
     home: http://fluentbit.io
@@ -2317,7 +2317,7 @@ entries:
     version: 0.15.0
   - apiVersion: v1
     appVersion: 0.14.4
-    created: "2020-08-14T10:26:49.651134161+01:00"
+    created: "2020-08-14T14:26:23.774227004+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 9576bafa0384ce8df57699f3ef68f1954eeac3ae91e36fadbb504a762ec65a91
     home: http://fluentbit.io
@@ -2340,7 +2340,7 @@ entries:
     version: 0.14.0
   - apiVersion: v1
     appVersion: 0.14.4
-    created: "2020-08-14T10:26:49.235768916+01:00"
+    created: "2020-08-14T14:26:23.571309906+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 780c9c5597b16261035cca09f9a55c1de0dbe2b6f6c2afe5a3cf82cd0f775d4e
     home: http://fluentbit.io
@@ -2363,7 +2363,7 @@ entries:
     version: 0.13.1
   - apiVersion: v1
     appVersion: 0.14.4
-    created: "2020-08-14T10:26:49.029997411+01:00"
+    created: "2020-08-14T14:26:23.208881862+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 6b28ffc4b587e68c5cab35f8fdda32e4fc62369104d3020dd33fec1a7bc1561b
     home: http://fluentbit.io
@@ -2386,7 +2386,7 @@ entries:
     version: 0.13.0
   - apiVersion: v1
     appVersion: 0.14.4
-    created: "2020-08-14T10:26:48.621272811+01:00"
+    created: "2020-08-14T14:26:22.745869438+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: b2311d990250552d708a0e6598ad7af5d0272ae8bc6a72cad8ab2a4625ae1088
     home: http://fluentbit.io
@@ -2409,7 +2409,7 @@ entries:
     version: 0.12.0
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:48.413898386+01:00"
+    created: "2020-08-14T14:26:22.541666326+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: a5013af9fa1c9c44264fb9d0a11b5d20d5aad7ab53f038500ea6236f1c56f946
     home: http://fluentbit.io
@@ -2432,7 +2432,7 @@ entries:
     version: 0.11.1
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:48.111080932+01:00"
+    created: "2020-08-14T14:26:22.335119446+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 681602e2f2ec2a6177f3a04c27550267ba131400f1af0b72fe47456bb8d537f1
     home: http://fluentbit.io
@@ -2455,7 +2455,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:47.807156931+01:00"
+    created: "2020-08-14T14:26:22.030478272+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: b7cb938ea42582d11020e3765681e3f464df5845bb0ebb3e2b7741d993dbe74a
     home: http://fluentbit.io
@@ -2478,7 +2478,7 @@ entries:
     version: 0.10.0
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:58.862050931+01:00"
+    created: "2020-08-14T14:26:32.779963548+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: c11bec53b8154be9b6bc547ddd19665590fb6c1d12afb2a5dea73c6dc1cf03e3
     home: http://fluentbit.io
@@ -2501,7 +2501,7 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:58.554706519+01:00"
+    created: "2020-08-14T14:26:32.472522803+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: e95b27599aaf2d9d673ee5cec9a2ed6e8d5a1b907d67c9f0cc67c72588976304
     home: http://fluentbit.io
@@ -2524,7 +2524,7 @@ entries:
     version: 0.8.0
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:58.203143103+01:00"
+    created: "2020-08-14T14:26:32.23554022+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 1d3016f8689a8082786bf6ebf1dc0b3515a7b1ce20344c44562c240daec19f70
     home: http://fluentbit.io
@@ -2547,7 +2547,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:57.636769296+01:00"
+    created: "2020-08-14T14:26:31.773058359+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: fdd718150afe9bb757c08e53214161dfc8063931c719fd33138184171e370d3c
     home: http://fluentbit.io
@@ -2570,7 +2570,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:57.324255888+01:00"
+    created: "2020-08-14T14:26:31.558383307+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: a904c23329c9aedad979ad63860635c50de6cc805dc8050914d614be1cc08624
     home: http://fluentbit.io
@@ -2593,7 +2593,7 @@ entries:
     version: 0.5.2
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:56.757348417+01:00"
+    created: "2020-08-14T14:26:31.248729445+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: fa3f101c9a4fb11120c84cb1a0f0c276802daa0c19748d2362ea00030d299dde
     home: http://fluentbit.io
@@ -2616,7 +2616,7 @@ entries:
     version: 0.5.1
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2020-08-14T10:26:56.55338069+01:00"
+    created: "2020-08-14T14:26:30.938929704+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: bb3327b07637da53305628b4eba880f2d85ed7ed0a5c3533f9f2a52387b152bd
     home: http://fluentbit.io
@@ -2639,7 +2639,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: 0.12.15
-    created: "2020-08-14T10:26:56.354170526+01:00"
+    created: "2020-08-14T14:26:30.630834904+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: acc9d5aad718c6a84ec599e4cca766c0dbdb8b4eacb5f87386d1fd71757aaa08
     home: http://fluentbit.io
@@ -2662,7 +2662,7 @@ entries:
     version: 0.4.2
   - apiVersion: v1
     appVersion: 0.12.15
-    created: "2020-08-14T10:26:56.002700782+01:00"
+    created: "2020-08-14T14:26:30.324147991+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 7918cf239edeff975bc36ae494388cf904d5f6895d497bda86348846f340bf0b
     home: http://fluentbit.io
@@ -2685,7 +2685,7 @@ entries:
     version: 0.4.1
   - apiVersion: v1
     appVersion: 0.12.15
-    created: "2020-08-14T10:26:55.796493703+01:00"
+    created: "2020-08-14T14:26:30.025814002+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: e69bb3cc1d329246c8caf33d13be31b24c0961b789269977fb2da38d799f8b4f
     home: http://fluentbit.io
@@ -2708,7 +2708,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: 0.12.15
-    created: "2020-08-14T10:26:55.580780562+01:00"
+    created: "2020-08-14T14:26:29.569255734+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 7e59d3e067d24c5ca5b6c436ebb94d62ebd0150bc35b6253ab01a55c7fbd6375
     home: http://fluentbit.io
@@ -2731,7 +2731,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.12.15
-    created: "2020-08-14T10:26:53.331053753+01:00"
+    created: "2020-08-14T14:26:27.252304768+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: c9bbee1951d5a7e566a9368f22f391b39fbd8fef1931d27e7e813fc39692529f
     home: http://fluentbit.io
@@ -2754,7 +2754,7 @@ entries:
     version: 0.2.14
   - apiVersion: v1
     appVersion: 0.12.15
-    created: "2020-08-14T10:26:53.028538923+01:00"
+    created: "2020-08-14T14:26:26.851354795+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: f66e69406fd42e418ee5a33f44e287c24e111e248858b851e9d04ba651e5392d
     home: http://fluentbit.io
@@ -2777,7 +2777,7 @@ entries:
     version: 0.2.13
   - apiVersion: v1
     appVersion: 0.12.15
-    created: "2020-08-14T10:26:52.718466915+01:00"
+    created: "2020-08-14T14:26:26.647310872+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 8bcdf5383243b8c72d21980caf346b54866761767cae6d6be25796be31b2f6b0
     home: http://fluentbit.io
@@ -2800,7 +2800,7 @@ entries:
     version: 0.2.12
   - apiVersion: v1
     appVersion: 0.12.11
-    created: "2020-08-14T10:26:52.409358186+01:00"
+    created: "2020-08-14T14:26:26.330813101+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: b6eaaa7ff778e6d3d73f5fc35c83b7eed3aebb829766d2120dad025414ad717f
     home: http://fluentbit.io
@@ -2823,7 +2823,7 @@ entries:
     version: 0.2.11
   - apiVersion: v1
     appVersion: 0.12.11
-    created: "2020-08-14T10:26:51.898308404+01:00"
+    created: "2020-08-14T14:26:25.92130581+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: f2a50b4e420b86f3ec60df1ea7aae693d97f03a6dd2eed32a892473e1aa5ca86
     home: http://fluentbit.io
@@ -2846,7 +2846,7 @@ entries:
     version: 0.2.10
   - apiVersion: v1
     appVersion: 0.12.11
-    created: "2020-08-14T10:26:55.358748571+01:00"
+    created: "2020-08-14T14:26:29.350245929+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: e32bc6ae3e14958472b4722f111b6f147f736f983362f5a0f3981d7ed63d44b7
     home: http://fluentbit.io
@@ -2869,7 +2869,7 @@ entries:
     version: 0.2.9
   - apiVersion: v1
     appVersion: 0.12.11
-    created: "2020-08-14T10:26:55.138487242+01:00"
+    created: "2020-08-14T14:26:29.096107482+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 1c8f17325e99781753c2227bfc28cf70feafe122ff1eba217e9796232c17b13f
     home: http://fluentbit.io
@@ -2892,7 +2892,7 @@ entries:
     version: 0.2.8
   - apiVersion: v1
     appVersion: 0.12.11
-    created: "2020-08-14T10:26:54.914655854+01:00"
+    created: "2020-08-14T14:26:28.582961237+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 447b71c2fcea0e4efa0446b69d892ff084baee1515fed2bcb0c1afa444c468b5
     home: http://fluentbit.io
@@ -2915,7 +2915,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: 0.12.11
-    created: "2020-08-14T10:26:54.608412343+01:00"
+    created: "2020-08-14T14:26:28.327462269+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: da71bbaccd935feeaaf794b0175c437e0f2ee40de23a36d4f616d4514495f9e9
     home: http://fluentbit.io
@@ -2938,7 +2938,7 @@ entries:
     version: 0.2.6
   - apiVersion: v1
     appVersion: 0.12.11
-    created: "2020-08-14T10:26:54.354856442+01:00"
+    created: "2020-08-14T14:26:28.070834608+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: e88601fcda9d29e126259cd1c4e513b4b0f6bb125aab5c9c4be8667082d5a7af
     home: http://fluentbit.io
@@ -2961,7 +2961,7 @@ entries:
     version: 0.2.5
   - apiVersion: v1
     appVersion: 0.12.7
-    created: "2020-08-14T10:26:54.132370109+01:00"
+    created: "2020-08-14T14:26:27.866089873+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: ebf19657cd86402cf61a6904c622dd40bd0d6f5853755f01cabc5a88491d247d
     home: http://fluentbit.io
@@ -2984,7 +2984,7 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: 0.12.7
-    created: "2020-08-14T10:26:53.549498094+01:00"
+    created: "2020-08-14T14:26:27.563411775+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 6246bf634d1c64a270182e539d7ac1e2f190427402eb74f64870f5f5ce8ae9b6
     home: http://fluentbit.io
@@ -3007,7 +3007,7 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: 0.12.3
-    created: "2020-08-14T10:26:51.682738573+01:00"
+    created: "2020-08-14T14:26:25.682116225+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: b001b6df8e81e2f60f6b86f9183f0a806700593ca49847b08ed6034befd3bcb7
     home: http://fluentbit.io
@@ -3030,7 +3030,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.11.17
-    created: "2020-08-14T10:26:47.493438969+01:00"
+    created: "2020-08-14T14:26:21.725724587+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 750c81a06f6443dfb1205a48d1baca1232fe4b1817f06f988676be7dc0f419da
     home: http://fluentbit.io
@@ -3053,7 +3053,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 0.11.17
-    created: "2020-08-14T10:26:46.981328624+01:00"
+    created: "2020-08-14T14:26:21.313120064+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: e09c437073b5fc2e6db0fbc15735ea884ed403f260e16f634887cc70df93e1fc
     home: http://fluentbit.io
@@ -3076,7 +3076,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.11.16
-    created: "2020-08-14T10:26:46.745877079+01:00"
+    created: "2020-08-14T14:26:21.110318136+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: dccc786d725e2b3941dfa0c259a3d92289a8c05909e455070a8e8cf22a0f8e39
     home: http://fluentbit.io
@@ -3099,7 +3099,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.11.15
-    created: "2020-08-14T10:26:46.474449222+01:00"
+    created: "2020-08-14T14:26:20.69873302+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: fb3a88c48cf14e8ad956d5054bf97e38312dd9494184ba7b5090cc06dfca9cef
     home: http://fluentbit.io
@@ -3122,7 +3122,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.11.12
-    created: "2020-08-14T10:26:46.265969335+01:00"
+    created: "2020-08-14T14:26:20.496559553+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 1dca7570940df2685c8314eb4e12edd4db13f596abc8f6d806488c52ac5b4470
     home: http://fluentbit.io
@@ -3145,7 +3145,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.11.11
-    created: "2020-08-14T10:26:45.653164673+01:00"
+    created: "2020-08-14T14:26:19.98289042+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 0e053d8ca73c7bce3fec02d962a0bec4fd63de7dbd00217ac46da8b9da6ceccf
     home: http://fluentbit.io
@@ -3168,7 +3168,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.11.10
-    created: "2020-08-14T10:26:45.340228817+01:00"
+    created: "2020-08-14T14:26:19.776909239+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 9142765ffe101bbf3d37dd9579efe8974e223e52dd10ed1d911cd150920520df
     home: http://fluentbit.io
@@ -3191,7 +3191,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.11.7
-    created: "2020-08-14T10:26:45.069066846+01:00"
+    created: "2020-08-14T14:26:19.542794233+01:00"
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: ea0b87ac75a21181219f9f8270d370643402ccf301de77f8c51d217a59e5c1cb
     home: http://fluentbit.io
@@ -3213,9 +3213,9 @@ entries:
   logstash:
   - apiVersion: v1
     appVersion: 7.1.1
-    created: "2020-08-14T11:04:44.039554499Z"
+    created: "2020-08-14T14:27:02.887706573+01:00"
     description: Logstash is an open source, server-side data processing pipeline
-    digest: 342158ae8f0cb4703154298e85334022a2073144a0d3dac451b4e355add6ceee
+    digest: 7e9cbd25ec66200a990c24093473c24dc52dbd723b6b112215b532afb0c792ba
     home: https://www.elastic.co/products/logstash
     icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
     maintainers:
@@ -3232,10 +3232,1464 @@ entries:
     urls:
     - https://github.com/Rungway/charts-we-use/releases/download/logstash-2.4.1/logstash-2.4.1.tgz
     version: 2.4.1
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2020-08-14T14:27:02.581875886+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: f963e5043d24701cdc7889de1c04731c9f77e98aca3152f49056485b0349ee97
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-2.4.0/logstash-2.4.0.tgz
+    version: 2.4.0
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2020-08-14T14:27:02.207099901+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: b68ede9f56380c86fab116c1a9af9c09be29b9f0dca7103644e2aefcdba7be2e
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-2.3.0/logstash-2.3.0.tgz
+    version: 2.3.0
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2020-08-14T14:27:01.967781142+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 513882184cdcea6fc8ce7959bab640b6de790e8a68040543cc6ce16843583441
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-2.2.1/logstash-2.2.1.tgz
+    version: 2.2.1
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2020-08-14T14:27:01.667863979+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 33183f1f54d74c60488148a0b760705e7116d57ad19a287e5e5331f88c4936d3
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-2.2.0/logstash-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2020-08-14T14:27:01.354333805+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 5aa7e0a41e777b793957f955c9d2d02c2df5093e0b4f9fc5e5fbeeabe45392a6
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-2.1.0/logstash-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2020-08-14T14:27:00.738696252+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 061eb81e6623f3a645f443da4154e9e07f5612b11e055e329862afceb575fb88
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-2.0.0/logstash-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2020-08-14T14:26:55.947805424+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 19940fb2b082a8a11378d373e53582ec4f9e491ea4c1635b9e039920e93fd048
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.13.0/logstash-1.13.0.tgz
+    version: 1.13.0
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2020-08-14T14:26:55.738552782+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: c131ba0ad09d1795eeaf394c9778110413ebd63d23403d2135713c7b2ed1e610
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.12.0/logstash-1.12.0.tgz
+    version: 1.12.0
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2020-08-14T14:26:55.520951477+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 7ebfdbe23c7205e39e01057535b358fa9c8b4f95e78d4aa455e7d4facf3b21b4
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.11.0/logstash-1.11.0.tgz
+    version: 1.11.0
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2020-08-14T14:26:55.313412757+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 21b7b97ff4a78d6b57015f75f171e0c30330a839b8300739f330d3ef52852271
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.10.0/logstash-1.10.0.tgz
+    version: 1.10.0
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2020-08-14T14:27:00.432323684+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: ce14dba336c7b2cdcad23238b50dc744c5dfe42b57da4784025454a744929974
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.9.0/logstash-1.9.0.tgz
+    version: 1.9.0
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2020-08-14T14:27:00.074034792+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 1bb35dd5bac08854f10635df047d5851907ae77b94956cb3d1a07ea340fb48f5
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.8.0/logstash-1.8.0.tgz
+    version: 1.8.0
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2020-08-14T14:26:59.721204364+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 3410173280e84b47ea209823e48eb223167d745af7f18ac87d7bf0d77d4de4ae
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.7.0/logstash-1.7.0.tgz
+    version: 1.7.0
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2020-08-14T14:26:59.514328343+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 212c7efa76811872b70d9656b67456b2ad6732056359853aceb6c10a664761f0
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.6.0/logstash-1.6.0.tgz
+    version: 1.6.0
+  - apiVersion: v1
+    appVersion: 6.6.2
+    created: "2020-08-14T14:26:59.203823259+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 29c5411027f1a8061aa3daa02fc3bb618cf9c1a6821f8bb170461195f283cce7
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.5.3/logstash-1.5.3.tgz
+    version: 1.5.3
+  - apiVersion: v1
+    appVersion: 6.6.1
+    created: "2020-08-14T14:26:58.89660887+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 9cda8f7eff32c93465fbb8be05527717e836f2e213bff1c9853e393c4a113c94
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.5.2/logstash-1.5.2.tgz
+    version: 1.5.2
+  - apiVersion: v1
+    appVersion: 6.6.0
+    created: "2020-08-14T14:26:58.483084638+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: cd1aafdf6c5e07d47bfa5bcbd2be1c2f40457b2c043cb8776a393e01923eeae3
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.5.1/logstash-1.5.1.tgz
+    version: 1.5.1
+  - apiVersion: v1
+    appVersion: 6.6.0
+    created: "2020-08-14T14:26:58.278105642+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: bf8e2bcc642b305f3442de0e4111cf2bc796848ad49c2a12508e77faf129dacb
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.5.0/logstash-1.5.0.tgz
+    version: 1.5.0
+  - apiVersion: v1
+    appVersion: 6.5.4
+    created: "2020-08-14T14:26:57.970169843+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 9a71d8eb51bf6ce8c12d0f9ec44723a4187a737038cf8a3eb8e641992a149848
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.4.2/logstash-1.4.2.tgz
+    version: 1.4.2
+  - apiVersion: v1
+    appVersion: 6.5.3
+    created: "2020-08-14T14:26:57.664436813+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: e271378152a8c288bff36b0e40669da6b3273f30ad985ac3ec1e15ac1767a223
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.4.1/logstash-1.4.1.tgz
+    version: 1.4.1
+  - apiVersion: v1
+    appVersion: 6.5.0
+    created: "2020-08-14T14:26:57.155001034+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 24241ba01417fe2221ae728a1171c5051ea2034a5faa39bba004598e65256c65
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.4.0/logstash-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v1
+    appVersion: 6.5.0
+    created: "2020-08-14T14:26:56.94983822+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 7e8cea395d910eaf56b1d48d823c4f6645c12ab390a8eb7afe6abbaaa046ad9c
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.3.0/logstash-1.3.0.tgz
+    version: 1.3.0
+  - apiVersion: v1
+    appVersion: 6.4.3
+    created: "2020-08-14T14:26:56.749168727+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: fc398ececdb0c53ddae30e260b78cc210e585f71e7f6a6a591293846b621cc2a
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.2.1/logstash-1.2.1.tgz
+    version: 1.2.1
+  - apiVersion: v1
+    appVersion: 6.4.2
+    created: "2020-08-14T14:26:56.355141764+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: 0c771b96cca72e2bf3a94ea2eddf709054040429cc07ba1506ac72edbbdd2e17
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.2.0/logstash-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v1
+    appVersion: 6.4.2
+    created: "2020-08-14T14:26:55.10613894+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: a4f1008ce525d6e931932f4b93e50c32ee5c9722b919d15ddb87305948ea90e5
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.1.0/logstash-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 6.4.2
+    created: "2020-08-14T14:26:54.852518226+01:00"
+    description: Logstash is an open source, server-side data processing pipeline
+    digest: f4b302035bb70e4c177bac333c1d000c71b916b57343dad8ff368650f7d51ba5
+    home: https://www.elastic.co/products/logstash
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    - email: jrodgers@powerhrg.com
+      name: jar361
+    - email: christian.roggia@gmail.com
+      name: christian-roggia
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    - https://www.elastic.co/guide/en/logstash/current/index.html
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/logstash-1.0.0/logstash-1.0.0.tgz
+    version: 1.0.0
+  memcached:
+  - apiVersion: v1
+    appVersion: 1.5.20
+    created: "2020-08-14T14:27:15.420470224+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: acbf6b6a7c19c8039d5d5505c316b9a46d5ca2ebad9d77f920cae9ffc6a04d29
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-3.2.3/memcached-3.2.3.tgz
+    version: 3.2.3
+  - apiVersion: v1
+    appVersion: 1.5.20
+    created: "2020-08-14T14:27:15.208210054+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: d2ed738a1d9b0a02cddd580dfd1424de24508d250cce03f29ecabd6d56cedec1
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-3.2.2/memcached-3.2.2.tgz
+    version: 3.2.2
+  - apiVersion: v1
+    appVersion: 1.5.20
+    created: "2020-08-14T14:27:15.00537633+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 450714af13424f26e2b026891d92c9ff74ced4436f3803a3197dffb2ecd2f418
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-3.2.1/memcached-3.2.1.tgz
+    version: 3.2.1
+  - apiVersion: v1
+    appVersion: 1.5.19
+    created: "2020-08-14T14:27:14.806762116+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 89d7ea432a5312340743a3dda5fdee2954eea154ace69766c775d613cd11484b
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-3.2.0/memcached-3.2.0.tgz
+    version: 3.2.0
+  - apiVersion: v1
+    appVersion: 1.5.19
+    created: "2020-08-14T14:27:14.591680439+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 6a6328c305495bf80dbf1b4b6cd3b01d8c69b63eecb8a4dee37243226d63fbf1
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-3.1.0/memcached-3.1.0.tgz
+    version: 3.1.0
+  - apiVersion: v1
+    appVersion: 1.5.19
+    created: "2020-08-14T14:27:14.377196157+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: c27c8c82495441b033d58634116966e00583a725063b2a43a631761cde3c0241
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-3.0.3/memcached-3.0.3.tgz
+    version: 3.0.3
+  - apiVersion: v1
+    appVersion: 1.5.19
+    created: "2020-08-14T14:27:14.158290481+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 2c1223d8824361e98c7567c454b452c2446a98d703d7672511c8d8d9bd8b2d20
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-3.0.2/memcached-3.0.2.tgz
+    version: 3.0.2
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:13.948211955+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: e92c87f14a8633d1a532725ff396817c1513a4d48fa9fc9c8816415115ec7ae0
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-3.0.1/memcached-3.0.1.tgz
+    version: 3.0.1
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:13.435646365+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: a157739e3dfde3b3065c306a8f955ef63ba5f6d6a4a60c8645ae234e8c97ee64
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-3.0.0/memcached-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:08.538166216+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: ebdb4a8036f5707407ae4b07535d3ee77e24b7b10d348f080bd7b8eb07c3d660
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.10.2/memcached-2.10.2.tgz
+    version: 2.10.2
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:08.326349588+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: b5a0b0a1e3979931b6039e44fe4f7492c54c46ba6c8ef1c98703c8353a6cbd78
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.10.1/memcached-2.10.1.tgz
+    version: 2.10.1
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:08.107798008+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: e260a7b8b4d502b273ab7c7c9dd930524125dce6b4cbc7201c8deb3916bbc25e
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.10.0/memcached-2.10.0.tgz
+    version: 2.10.0
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:13.229807179+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 8dd0650f0e82af15be1c66527ff7f3bc15fd7fc2709bcdc61d502af87f9ee248
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.9.0/memcached-2.9.0.tgz
+    version: 2.9.0
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:13.026199259+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: df0729280347a23aa0ff982caba8da35995984e090a7043862cf6e2e4186c67a
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.8.3/memcached-2.8.3.tgz
+    version: 2.8.3
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:12.527352911+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 5c187f0ebead79d5713b4a68c1f0bf27e688878257a3a5b11759d6930b24ade8
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.8.2/memcached-2.8.2.tgz
+    version: 2.8.2
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:12.316321189+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 9338ceb4e05c2310909a095dc5e0624138e3825bb8763eaa5a8a9a23a6f4f70c
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.7.2/memcached-2.7.2.tgz
+    version: 2.7.2
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:12.004174791+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 9252abd655f2c0ed16da0208cc32e98570c8f030eef6aaac21ef6e4214dd1091
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.7.1/memcached-2.7.1.tgz
+    version: 2.7.1
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:11.797826453+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 88499f3854f945d9ea46718ff149c70d267198e0059100760ba9a75c7e2fe41f
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.7.0/memcached-2.7.0.tgz
+    version: 2.7.0
+  - apiVersion: v1
+    appVersion: 1.5.12
+    created: "2020-08-14T14:27:11.490806206+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 18380ae05c6ee50ed840924874987a2257effc5034c014a39901b6650ec96c96
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.6.0/memcached-2.6.0.tgz
+    version: 2.6.0
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:11.186288002+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 6e3b2730049594f84a95155ed88bdb127d4556eb5a732927303f3b7c7b355517
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.5.0/memcached-2.5.0.tgz
+    version: 2.5.0
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:10.875642557+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 528a8812db1a03cb5fabd7f46e1777b39b437f427e3f2dc3fce8459122647913
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.4.0/memcached-2.4.0.tgz
+    version: 2.4.0
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:10.565468554+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: e2c491ef84da2ebd11e771fe7065b325c1213d309dc38f2682467ae8c7bb12af
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.3.1/memcached-2.3.1.tgz
+    version: 2.3.1
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:10.263151987+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 62f262e22d9b278db582e311d4f33e86c6fd3554b715595fae691c5a328eed4d
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.3.0/memcached-2.3.0.tgz
+    version: 2.3.0
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:09.954495716+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 224aae21319ba45429a77bc48207ebd6980802475843c54a0c39ce95c96fced9
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: k.aasan@sportradar.com
+      name: kennethaasan
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.2.3/memcached-2.2.3.tgz
+    version: 2.2.3
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:09.649348745+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 9a32d3f0a59926033895676dddb191801c179bba2106c5b3194b5a706aeef70c
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.2.2/memcached-2.2.2.tgz
+    version: 2.2.2
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:09.243484694+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 7ffa7e90a7e7b8a187f243ec771a30cc7f93aefe6b33f3e9e9e2e111cf7d6ed0
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: o.with@sportradar.com
+      name: olemarkus
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.2.1/memcached-2.2.1.tgz
+    version: 2.2.1
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:09.032021334+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 035db06257af965629d3d0587c3f3707e8434380a5c7fcb59d9e3d66a01961f9
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.2.0/memcached-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:07.802694757+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 8a59ee8a4b756c2954bce0e2e6c54b82fbe381f38f6d5e965298958b0336c54c
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.1.1/memcached-2.1.1.tgz
+    version: 2.1.1
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:07.229140621+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 7e024b57b326b59bb387bd18963bcd74165049836ad299500db0406522052378
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.1.0/memcached-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-08-14T14:27:06.747732255+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 3b6519dc948304a8d1eece348a4717c75d82f56f43f91c5b778b12a1524ccc34
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.0.4/memcached-2.0.4.tgz
+    version: 2.0.4
+  - apiVersion: v1
+    created: "2020-08-14T14:27:06.413005841+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 040820ea49bc718919dd9ca77bf61421dd8dc2a65ee0bb5a50ca96f2c631d3a8
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.0.3/memcached-2.0.3.tgz
+    version: 2.0.3
+  - apiVersion: v1
+    created: "2020-08-14T14:27:06.215227665+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 9943caecbe880de12e797ff3c7815fb06f082fd75d9fdda1cc6173f757cef014
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.0.2/memcached-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v1
+    created: "2020-08-14T14:27:05.921729914+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: fb3204af74aaf1f4e2b8f3930406cbca5e52bdb062e30ff35858d0c638ea3c5b
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.0.1/memcached-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v1
+    created: "2020-08-14T14:27:05.65286525+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: ea9dea11374f652e64dac152dd05ddcf3336392a362e4f0254708802cdea71c1
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-2.0.0/memcached-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    created: "2020-08-14T14:27:05.340714988+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 9f63eb211b2b161ed5c1ad349ad47dae2fdbcac211d200e6ee5e2cc99deaeb76
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-1.2.1/memcached-1.2.1.tgz
+    version: 1.2.1
+  - apiVersion: v1
+    created: "2020-08-14T14:27:04.915380334+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: c55ae9f12a22c8eb3496f4bf08185ba82b938bfbfc9d92027114b649c2c03581
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-1.2.0/memcached-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v1
+    created: "2020-08-14T14:27:04.665841187+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 5d2ad41e0611676255d27cc5d9f5d34f6e473e831fbb8d76d0486e7e71aeeeec
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-1.1.0/memcached-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    created: "2020-08-14T14:27:04.12232493+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: 1b70de73fbaaec0f83a89345313b2854246c9f875ccdd760d042356c21d1553e
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-1.0.1/memcached-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    created: "2020-08-14T14:27:03.616030857+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: c1e4cd53dd03ac48858ba18709dd13aaee632d2524feac4cdbfd074c23edc910
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-1.0.0/memcached-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
+    created: "2020-08-14T14:27:03.399156539+01:00"
+    description: Free & open source, high-performance, distributed memory object caching
+      system.
+    digest: d3ce419bf5dc7629fd5491354922eb720bab1db570d1003c704d4359b5eb2c78
+    home: http://memcached.org/
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-0.4.1/memcached-0.4.1.tgz
+    version: 0.4.1
+  - apiVersion: v1
+    created: "2020-08-14T14:27:03.192174186+01:00"
+    description: Chart for Memcached
+    digest: 9d4d05f9dc3c6cb2274e64a2d6e6f1e5d55235004e2912ccde77a1a02b7d080a
+    home: http://memcached.org/
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: Greg Taylor
+    name: memcached
+    sources:
+    - https://github.com/docker-library/memcached
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/memcached-0.4.0/memcached-0.4.0.tgz
+    version: 0.4.0
   oauth2-proxy:
   - apiVersion: v1
     appVersion: 5.1.0
-    created: "2020-08-14T10:27:34.496106455+01:00"
+    created: "2020-08-14T14:27:27.671122209+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 5a3b484c034c71ccc90a937f23fa6fb28e5a97af57cc2f62c7c6a629c16bd7ad
@@ -3261,7 +4715,7 @@ entries:
     version: 3.2.2
   - apiVersion: v1
     appVersion: 5.1.0
-    created: "2020-08-14T10:27:34.136922347+01:00"
+    created: "2020-08-14T14:27:27.464034856+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 0206b5faf42f0dff643f44c8f78855bab58aea322b5a111cd08e3565903555a2
@@ -3287,7 +4741,7 @@ entries:
     version: 3.2.1
   - apiVersion: v1
     appVersion: 5.1.0
-    created: "2020-08-14T10:27:33.800486668+01:00"
+    created: "2020-08-14T14:27:27.261515577+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 229fa97c168aaec6aafd2744848c4a7458e5713cda1dd174b4cae5fb84ca64e5
@@ -3313,7 +4767,7 @@ entries:
     version: 3.2.0
   - apiVersion: v1
     appVersion: 5.1.0
-    created: "2020-08-14T10:27:33.595757598+01:00"
+    created: "2020-08-14T14:27:26.952341021+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 8a19275b582bf7d6b05128f3f1cb174af72f38f7649216ea41a3367c1c31c77e
@@ -3339,7 +4793,7 @@ entries:
     version: 3.1.0
   - apiVersion: v1
     appVersion: 5.1.0
-    created: "2020-08-14T10:27:33.389747771+01:00"
+    created: "2020-08-14T14:27:26.69843088+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 6fbe5493d43fb1ef11b82eab2b94c17b29f25fe95a15b343ef10bac03a558ab1
@@ -3365,7 +4819,7 @@ entries:
     version: 3.0.0
   - apiVersion: v1
     appVersion: 5.1.0
-    created: "2020-08-14T10:27:33.172068106+01:00"
+    created: "2020-08-14T14:27:26.458314722+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 66eeb2dd01078a39813dceae9f6235f672b4f56ec31f6ea433dd81d90c02e4c8
@@ -3391,7 +4845,7 @@ entries:
     version: 2.4.1
   - apiVersion: v1
     appVersion: 5.1.0
-    created: "2020-08-14T10:27:32.960013988+01:00"
+    created: "2020-08-14T14:27:26.237436999+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: a6b885bec3d07031f9af1740275114cc755ccb5c7068ebafa96551bef5f53f0d
@@ -3417,7 +4871,7 @@ entries:
     version: 2.4.0
   - apiVersion: v1
     appVersion: 5.0.0
-    created: "2020-08-14T10:27:32.639259618+01:00"
+    created: "2020-08-14T14:27:25.922303995+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: a9d431150e6d2ac978968823f428fc6b1a2cc5d1c2e23ac5d58f63d76e0f02ca
@@ -3443,7 +4897,7 @@ entries:
     version: 2.3.0
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2020-08-14T10:27:32.345996749+01:00"
+    created: "2020-08-14T14:27:25.625731841+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 6303a3000966927a7970384689038004b2749a237ff8b39d6c7f7df88d8e3a7a
@@ -3469,7 +4923,7 @@ entries:
     version: 2.2.2
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2020-08-14T10:27:31.839286958+01:00"
+    created: "2020-08-14T14:27:25.341768392+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: f9b86b414b253ae908a19a7d0c854de9f4e661494c94fd2038f59962b92bc349
@@ -3495,7 +4949,7 @@ entries:
     version: 2.2.1
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2020-08-14T10:27:31.62777568+01:00"
+    created: "2020-08-14T14:27:25.112394121+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 232098b305f4ff84c92d07748419aa9dfa99914a79726118d1ee61582fb65e58
@@ -3521,7 +4975,7 @@ entries:
     version: 2.1.1
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2020-08-14T10:27:31.422594761+01:00"
+    created: "2020-08-14T14:27:24.915070741+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: ab31892a7adf25d9fb9f40631a2cc48bec83b1d03f2b444ff767afe42937a6c9
@@ -3547,7 +5001,7 @@ entries:
     version: 2.1.0
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2020-08-14T10:27:31.115749061+01:00"
+    created: "2020-08-14T14:27:24.609785+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 781eb38789f8ac75a048887083113b5010aaa5949428dae64cabe6983b2e6e44
@@ -3573,7 +5027,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2020-08-14T10:27:30.807899993+01:00"
+    created: "2020-08-14T14:27:24.308331111+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: a00c77dc73cd481c673f1ae19e23958463c9c306c0fb162f3a2a301bec6edcc5
@@ -3598,7 +5052,7 @@ entries:
     version: 1.2.0
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2020-08-14T10:27:30.501788311+01:00"
+    created: "2020-08-14T14:27:24.086213118+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 5a524177b0384dceb3721b0f876d027783ceebf29b7542ef61eed0229d23d36f
@@ -3623,7 +5077,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2020-08-14T10:27:30.19385671+01:00"
+    created: "2020-08-14T14:27:23.677006114+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: c83262ba0a2ed8f02dd3a8a602e8ef82730e1e409ffb2c894647f23749cee0c1
@@ -3648,7 +5102,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2020-08-14T10:27:29.887305288+01:00"
+    created: "2020-08-14T14:27:23.471783319+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: b7147109d2294b6f03957c36703a6a274193c05c865f4111856e9918554c4399
@@ -3673,7 +5127,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 3.2.0
-    created: "2020-08-14T10:27:25.280208818+01:00"
+    created: "2020-08-14T14:27:18.247707817+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 87f11ca8cfcf0a3089089ec7998108b87477938327245b5eadcd28494ef5e34b
@@ -3696,7 +5150,7 @@ entries:
     version: 0.15.0
   - apiVersion: v1
     appVersion: 3.2.0
-    created: "2020-08-14T10:27:24.868907841+01:00"
+    created: "2020-08-14T14:27:17.94385665+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 2df61ad83ca82e7c3c9dc5333225cd460de4b83c9c0e36b84da4ada2c23d3a38
@@ -3719,7 +5173,7 @@ entries:
     version: 0.14.1
   - apiVersion: v1
     appVersion: 3.2.0
-    created: "2020-08-14T10:27:24.609030464+01:00"
+    created: "2020-08-14T14:27:17.63783836+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: db118dd4753b1e0134d06e2c4be38d7db177275fdf9cac7ae54b5ce3a6fc9c8e
@@ -3742,7 +5196,7 @@ entries:
     version: 0.14.0
   - apiVersion: v1
     appVersion: 3.2.0
-    created: "2020-08-14T10:27:24.153704438+01:00"
+    created: "2020-08-14T14:27:17.327623357+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 291947c64ddbf1f5b0b804debf8d39622f92e08df0e7e77f212f2e6030d353b3
@@ -3765,7 +5219,7 @@ entries:
     version: 0.13.0
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2020-08-14T10:27:23.955272267+01:00"
+    created: "2020-08-14T14:27:16.811693936+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: f881f0fe66591b9b621f2f34bbce2b6ad5e5aa9ae4712d401c5ad8aa5547624c
@@ -3788,7 +5242,7 @@ entries:
     version: 0.12.3
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2020-08-14T10:27:23.636919651+01:00"
+    created: "2020-08-14T14:27:16.60750702+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 01a259ade7fdbb04e9c92372dc06ba347ff3689c2e1b8524d477d309e27b5fc9
@@ -3811,7 +5265,7 @@ entries:
     version: 0.12.2
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2020-08-14T10:27:23.436368511+01:00"
+    created: "2020-08-14T14:27:16.388813048+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 362d01c8148eef401896c8a6eacca32f1ad39d860be3612fb2eb182a2568c897
@@ -3834,7 +5288,7 @@ entries:
     version: 0.12.1
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2020-08-14T10:27:23.132865281+01:00"
+    created: "2020-08-14T14:27:16.197963702+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: cc802b902682794321c85e95784bbde8ea908da9b31b8b7ff61fef5a7d0ccac9
@@ -3857,7 +5311,7 @@ entries:
     version: 0.12.0
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2020-08-14T10:27:22.819945807+01:00"
+    created: "2020-08-14T14:27:15.92127318+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 4c60a8d4393e6ebf74a65ce6ec4f52f40e9de56f93175b3aba9389c79c0d2f00
@@ -3880,7 +5334,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2020-08-14T10:27:22.411230134+01:00"
+    created: "2020-08-14T14:27:15.694268832+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 5e519baadda599ad8fc9e28ccc5c5f5aa5a0ff4ed9f6658ac1015bd7d156df0b
@@ -3903,7 +5357,7 @@ entries:
     version: 0.10.0
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2020-08-14T10:27:29.585710634+01:00"
+    created: "2020-08-14T14:27:23.06114047+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 4db64f5ca8593bb66d4386fc9d7a9724fb6a63b3618c326d2141c986a102ae8f
@@ -3926,7 +5380,7 @@ entries:
     version: 0.9.1
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2020-08-14T10:27:29.067308736+01:00"
+    created: "2020-08-14T14:27:22.839036603+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 44bf2c3e6eef8040fbf323ba6a7189913085f071913bba4f5f88a206222cec37
@@ -3949,7 +5403,7 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-08-14T10:27:28.834009354+01:00"
+    created: "2020-08-14T14:27:22.396232395+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: aee05cbba15c934ef8cd2fea6bff6a815f462d69dc49c831a1d5aea9607d3411
@@ -3972,7 +5426,7 @@ entries:
     version: 0.8.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-08-14T10:27:28.350460332+01:00"
+    created: "2020-08-14T14:27:22.187118732+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 7f6e3073530d3058642d9717e288ffe3fba396554d88781aade4e662a9663f87
@@ -3995,7 +5449,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:27.860663632+01:00"
+    created: "2020-08-14T14:27:21.937017466+01:00"
     deprecated: true
     description: DEPRECATED A reverse proxy that provides authentication with Google,
       Github or other providers
@@ -4016,7 +5470,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:27.650968408+01:00"
+    created: "2020-08-14T14:27:21.631362468+01:00"
     deprecated: true
     description: DEPRECATED A reverse proxy that provides authentication with Google,
       Github or other providers
@@ -4037,7 +5491,7 @@ entries:
     version: 0.5.2
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:27.44623984+01:00"
+    created: "2020-08-14T14:27:21.318997731+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 31fe2c5704c0e41c6eab1bcf825488e2c66876aac578a58cdffc32f98cb6a959
@@ -4060,7 +5514,7 @@ entries:
     version: 0.5.1
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:27.243286431+01:00"
+    created: "2020-08-14T14:27:21.010056826+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 1bd67b7f7f9cada2306f1809b8fab86592bee42ac43b87405285a052560446d8
@@ -4083,7 +5537,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:27.016901563+01:00"
+    created: "2020-08-14T14:27:20.397232342+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 3bb099784871a9261da782c0bb164ccc1434a3aac1934d9d214bca51453aa095
@@ -4106,7 +5560,7 @@ entries:
     version: 0.4.1
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:26.746565553+01:00"
+    created: "2020-08-14T14:27:19.908569826+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 4e72a1d0f2e58e0c3986b361edd62a5a3857b8f2c30b766bb7d8804a307d610b
@@ -4129,7 +5583,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:26.412604822+01:00"
+    created: "2020-08-14T14:27:19.691806957+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 6d67b3ea41d531e1713dc464bfce043caf78e2991535cdd867d64daf4201ab3e
@@ -4152,7 +5606,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:26.200801525+01:00"
+    created: "2020-08-14T14:27:19.282761042+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 4dcb15f163f8479728f1e346c246a54b88c12a03f83e6399b2a5844ad40c8916
@@ -4175,7 +5629,7 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:25.969467107+01:00"
+    created: "2020-08-14T14:27:19.076341346+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: 1b3c88a8790e8a41059e5c8d7f89f37d2133f5293ef7d762ec4935b9acf0da6b
@@ -4197,7 +5651,7 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:25.74934496+01:00"
+    created: "2020-08-14T14:27:18.713971283+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: d25b56b323fb34dccc271d1c9d2800f6a7b494586a61126e8fcef66a9aa1f9cb
@@ -4219,7 +5673,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: "2.2"
-    created: "2020-08-14T10:27:25.535875382+01:00"
+    created: "2020-08-14T14:27:18.50265587+01:00"
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: fae010846e33a329f8da84b21582e6d7eda3f67a3380aca7eb9bf0e7a35b91fb
@@ -4239,4 +5693,4 @@ entries:
     urls:
     - https://github.com/Rungway/charts-we-use/releases/download/oauth2-proxy-0.2.0/oauth2-proxy-0.2.0.tgz
     version: 0.2.0
-generated: "2020-08-14T10:26:37.666764361+01:00"
+generated: "2020-08-14T14:26:13.4253946+01:00"
