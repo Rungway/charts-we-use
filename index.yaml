@@ -3210,6 +3210,53 @@ entries:
     urls:
     - https://github.com/Rungway/charts-we-use/releases/download/fluent-bit-0.1.0/fluent-bit-0.1.0.tgz
     version: 0.1.0
+  grafana:
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2020-08-14T16:31:11.737806277Z"
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: a5d65113d3c96dfc44fe45a0c7bd514a1874eee298d86f4e9851b201d763cdc4
+    home: https://grafana.net
+    icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: zanhsieh@gmail.com
+      name: zanhsieh
+    - email: rluckie@cisco.com
+      name: rtluckie
+    - email: maor.friedman@redhat.com
+      name: maorfr
+    name: grafana
+    sources:
+    - https://github.com/grafana/grafana
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/grafana-5.5.5/grafana-5.5.5.tgz
+    version: 5.5.5
+  kube-state-metrics:
+  - apiVersion: v1
+    appVersion: 1.9.7
+    created: "2020-08-14T16:31:11.836392385Z"
+    description: Install kube-state-metrics to generate and expose cluster-level metrics
+    digest: 0957fd47b269103718f9a639425e0fdc904ea10cc5a22272bc9141d5f8f95566
+    home: https://github.com/kubernetes/kube-state-metrics/
+    keywords:
+    - metric
+    - monitoring
+    - prometheus
+    - kubernetes
+    maintainers:
+    - email: jose@armesto.net
+      name: fiunchinho
+    - email: tariq.ibrahim@mulesoft.com
+      name: tariq1890
+    - email: manuel@rueg.eu
+      name: mrueg
+    name: kube-state-metrics
+    sources:
+    - https://github.com/kubernetes/kube-state-metrics/
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/kube-state-metrics-2.8.14/kube-state-metrics-2.8.14.tgz
+    version: 2.8.14
   logstash:
   - apiVersion: v1
     appVersion: 7.1.1
@@ -6389,6 +6436,27 @@ entries:
     urls:
     - https://github.com/Rungway/charts-we-use/releases/download/oauth2-proxy-0.2.0/oauth2-proxy-0.2.0.tgz
     version: 0.2.0
+  prometheus-node-exporter:
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: "2020-08-14T16:31:11.977689851Z"
+    description: A Helm chart for prometheus node-exporter
+    digest: e0416ed838b79e5314f89e69924dd607a7d4f7b2938447d0953e523e5137f673
+    home: https://github.com/prometheus/node_exporter/
+    keywords:
+    - node-exporter
+    - prometheus
+    - exporter
+    maintainers:
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    - name: vsliouniaev
+    name: prometheus-node-exporter
+    sources:
+    - https://github.com/prometheus/node_exporter/
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/prometheus-node-exporter-1.11.1/prometheus-node-exporter-1.11.1.tgz
+    version: 1.11.1
   prometheus-operator:
   - apiVersion: v1
     appVersion: 0.38.1
