@@ -8,11 +8,7 @@ image:
   repository: stefanprodan/mgob
   pullPolicy: IfNotPresent
 
-  # We need edge to be able to use the "configMap.data[name].target.params", required to set the auth db.
-  # When this is official, update to the proper stable release.
-  #
-  # @see https://github.com/stefanprodan/mgob/commit/b70e86b3acba8c82447a568cfcdd31fbd5ee3f7c
-  tag: edge
+  tag: 1.1
 service:
   name: mgob
   externalPort: 8090
