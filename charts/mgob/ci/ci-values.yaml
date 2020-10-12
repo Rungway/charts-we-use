@@ -7,7 +7,6 @@ replicaCount: 1
 image:
   repository: stefanprodan/mgob
   pullPolicy: IfNotPresent
-
   tag: 1.1
 service:
   name: mgob
@@ -27,14 +26,14 @@ resources:
 storage:
   longTerm:
     accessMode: "ReadWriteOnce"
-    storageClass: "gp2"  # Note: "gp2" is for AWS. Use the storage class for your cloud provider.
+    # storageClass: "gp2"  # Note: "gp2" is for AWS. Use the storage class for your cloud provider.
     name: "mgob-storage"
-    size: 10Gi
+    size: 10Mi
   tmp:
     accessMode: "ReadWriteOnce"
-    storageClass: "gp2"  # Note: "gp2" is for AWS. Use the storage class for your cloud provider.
+    # storageClass: "gp2"  # Note: "gp2" is for AWS. Use the storage class for your cloud provider.
     name: "mgob-tmp"
-    size: 3Gi
+    size: 10Mi
 config:
   # Add each plan as per below.
   the-first-database.yml:
