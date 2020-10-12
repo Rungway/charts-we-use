@@ -3,40 +3,46 @@
 # Declare variables to be passed into your templates.
 # Note that two backup plans are provided as templates - they contain dummy values and should be changed before
 # attempting to apply the chart to your cluster.
+
+# -- Number of replicas
 replicaCount: 1
 image:
+  # -- Image repo
   repository: stefanprodan/mgob
+  # -- Image pull policy
   pullPolicy: IfNotPresent
-
+  # -- Image tag
   tag: 1.1
 service:
+  # -- Service name
   name: mgob
+  # -- Port to access the service
   externalPort: 8090
+  # -- Port to connect to in pod
   internalPort: 8090
 serviceAccount:
+  # -- If false, default service account will be used
   create: true
-  annotations:
-    eks.amazonaws.com/role-arn: iamArn
-selector:
-  role: mongo-backup
-resources:
-  limits:
-    cpu: 100m
-    memory: 128Mi
-  requests:
-    cpu: 100m
-    memory: 128Mi
+  # -- Annotations to add on service account
+  annotations: {}
+  # For example, to attach an AWS IAM role:
+  #  eks.amazonaws.com/role-arn: iamArn
 storage:
+  # -- Persistent volume for backups, see `config.retention`
   longTerm:
     accessMode: "ReadWriteOnce"
     storageClass: "gp2"  # Note: "gp2" is for AWS. Use the storage class for your cloud provider.
     name: "mgob-storage"
     size: 10Gi
+  # -- Persistent volume for temporary files
   tmp:
     accessMode: "ReadWriteOnce"
     storageClass: "gp2"  # Note: "gp2" is for AWS. Use the storage class for your cloud provider.
     name: "mgob-tmp"
     size: 3Gi
+
+# -- Backup plans.
+# For details, see [values.yaml](values.yaml)
 config: {}
 #    # Add each plan as per below.
 #    the-first-database.yml:
@@ -108,6 +114,9 @@ config: {}
 #        username: mgob
 #        # 'true' to notify only on failures
 #        warnOnly: false
+
+# -- Secret(s) to mount.
+# For details, see [values.yaml](values.yaml)
 secret: {}
 ## You can either insert your secret values as part of helm values, or refer externally created secrets.
 #  - name: gcp-example-secret-name
@@ -121,6 +130,18 @@ secret: {}
 #          "private_key": "-----BEGIN PRIVATE KEY-----\n...........\n-----END PRIVATE KEY-----\n",
 #          ...
 #        }
+
+# Environment variables
 env: {}
 #  - name: HTTPS_PROXY
 #    value: "http://localhost:3128"
+
+# -- Resource requests and limits
+# ref: http://kubernetes.io/docs/user-guide/compute-resources/
+resources:
+  limits:
+    cpu: 100m
+    memory: 128Mi
+  requests:
+    cpu: 100m
+    memory: 128Mi
