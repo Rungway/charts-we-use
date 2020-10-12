@@ -1,6 +1,6 @@
 # mgob
 
-![Version: 0.11.0](https://img.shields.io/badge/Version-0.11.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square)
 
 MongoDB dockerized backup agent.
 Runs scheduled backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
