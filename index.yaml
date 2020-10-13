@@ -5429,6 +5429,22 @@ entries:
     urls:
     - https://github.com/Rungway/charts-we-use/releases/download/metrics-server-0.0.2/metrics-server-0.0.2.tgz
     version: 0.0.2
+  mgob:
+  - apiVersion: v1
+    created: "2020-10-13T09:21:39.341081027Z"
+    description: |
+      MongoDB dockerized backup agent.
+      Runs scheduled backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
+    digest: 634d4a78a23f406d2b91530385316ea6891768d81fa17ad33bb12e51436c8d1c
+    maintainers:
+    - email: endre.czirbesz@rungway.com
+      name: endrec
+    name: mgob
+    sources:
+    - https://github.com/stefanprodan/mgob
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/mgob-1.0.0/mgob-1.0.0.tgz
+    version: 1.0.0
   oauth2-proxy:
   - apiVersion: v1
     appVersion: 5.1.0
