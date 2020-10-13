@@ -1,0 +1,82 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: {{ template "mgob.fullname" . }}
+  labels:
+    {{- include "mgob.labels" . | nindent 4 }}
+spec:
+  serviceName: {{ template "mgob.fullname" . }}
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: {{ include "mgob.name" . }}
+      app.kubernetes.io/instance: {{ .Release.Name }}
+  template:
+    metadata:
+      labels:
+        {{- include "mgob.labels" . | nindent 8 }}
+      annotations:
+        checksum/configMap: {{ toYaml .Values.config | sha256sum }}
+    spec:
+      containers:
+      - name: {{ template "mgob.fullname" . }}
+        image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+        imagePullPolicy: {{ .Values.image.pullPolicy }}
+        env:
+        {{- range $envVar := .Values.env }}
+        - name: {{ $envVar.name }}
+          value: {{ $envVar.value }}
+        {{- end }}
+        ports:
+        - containerPort: {{ .Values.service.internalPort }}
+          protocol: TCP
+        volumeMounts:
+        - name: "mgob-storage"
+          mountPath: "/storage"
+        - name: "mgob-tmp"
+          mountPath: "/tmp"
+        - name: "mgob-tmp"
+          mountPath: "/data"
+        {{- range $name, $value := .Values.config }}
+        - mountPath: "/config/{{ $name }}"
+          name: config
+          subPath: {{ $name | quote }}
+        {{- end }}
+        {{- range $secret := .Values.secret }}
+        - mountPath: "/secret/{{ $secret.name }}"
+          name: {{ $secret.name }}
+        {{- end }}
+      serviceAccountName: {{ template "mgob.serviceAccountName" . }}
+      volumes:
+      - name: config
+        configMap:
+          name: {{ template "mgob.fullname" . }}-config
+          items:
+          {{- range $name, $value := .Values.config }}
+          - key: {{ $name }}
+            path: {{ $name }}
+          {{- end }}
+      {{- range $secret := .Values.secret }}
+      - name: {{ $secret.name }}
+        secret:
+          secretName: {{ $secret.name }}
+      {{- end }}
+  volumeClaimTemplates:
+  - metadata:
+      name: {{ .Values.storage.longTerm.name }}
+    spec:
+      storageClassName: {{ .Values.storage.longTerm.storageClass }}
+      accessModes:
+      - {{ .Values.storage.longTerm.accessMode }}
+      resources:
+        requests:
+          storage: {{ .Values.storage.longTerm.size }}
+  - metadata:
+      name: {{ .Values.storage.tmp.name }}
+    spec:
+      storageClassName: {{ .Values.storage.tmp.storageClass }}
+      accessModes:
+      - {{ .Values.storage.tmp.accessMode }}
+      resources:
+        requests:
+          storage: {{ .Values.storage.tmp.size }}

@@ -1,12 +1,18 @@
 #!/bin/bash
 set -euo pipefail
 
-HELM_DOCS_VERSION="0.13.0"
+CHART_DIRS="$(git diff --find-renames --name-only "$(git rev-parse --abbrev-ref HEAD)" remotes/origin/master -- charts | grep '[cC]hart.yaml' | sed -e 's#/[Cc]hart.yaml##g')"
+HELM_DOCS_VERSION="1.3.0"
+WORK_DIR="$(pwd)"
 
 # install helm-docs
 curl --silent --show-error --fail --location --output /tmp/helm-docs.tar.gz https://github.com/norwoodj/helm-docs/releases/download/v"${HELM_DOCS_VERSION}"/helm-docs_"${HELM_DOCS_VERSION}"_Linux_x86_64.tar.gz
 tar -xf /tmp/helm-docs.tar.gz helm-docs
 
 # validate docs
-./helm-docs
+for CHART_DIR in ${CHART_DIRS}; do
+  pushd $CHART_DIR
+  ${WORK_DIR}/helm-docs
+  popd
+done
 git diff --exit-code
