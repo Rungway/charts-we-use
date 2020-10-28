@@ -5431,6 +5431,21 @@ entries:
     version: 0.0.2
   mgob:
   - apiVersion: v1
+    created: "2020-10-28T17:35:59.123434987Z"
+    description: |
+      MongoDB dockerized backup agent.
+      Runs scheduled backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
+    digest: c93ec6898e4193411ccf6a00815e82c35a416780a6be602099e6d50ae821dc37
+    maintainers:
+    - email: endre.czirbesz@rungway.com
+      name: endrec
+    name: mgob
+    sources:
+    - https://github.com/stefanprodan/mgob
+    urls:
+    - https://github.com/Rungway/charts-we-use/releases/download/mgob-1.1.0/mgob-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
     created: "2020-10-13T09:21:39.341081027Z"
     description: |
       MongoDB dockerized backup agent.
