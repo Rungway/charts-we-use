@@ -1,6 +1,6 @@
 # mgob
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square)
+![Version: 1.1.0](https://img.shields.io/badge/Version-1.1.0-informational?style=flat-square)
 
 MongoDB dockerized backup agent.
 Runs scheduled backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
@@ -23,7 +23,7 @@ Runs scheduled backups with retention, S3 & SFTP upload, notifications, instrume
 | env | object | `{}` |  |
 | image.pullPolicy | string | `"IfNotPresent"` | Image pull policy |
 | image.repository | string | `"stefanprodan/mgob"` | Image repo |
-| image.tag | float | `1.1` | Image tag |
+| image.tag | float | `1.3` | Image tag |
 | replicaCount | int | `1` | Number of replicas |
 | resources | object | `{"limits":{"cpu":"100m","memory":"128Mi"},"requests":{"cpu":"100m","memory":"128Mi"}}` | Resource requests and limits ref: http://kubernetes.io/docs/user-guide/compute-resources/ |
 | secret | object | `{}` | Secret(s) to mount. For details, see [values.yaml](values.yaml) |
